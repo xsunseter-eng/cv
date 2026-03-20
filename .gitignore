@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+Test_CV.yaml
+Test_CV.pdf
+Test_CV.md
+Test_CV.html
+Test_CV_1.png
+Test_CV_2.png
+# rendercv_output/ # Keep this if you want rendered CVs in the repo for README links

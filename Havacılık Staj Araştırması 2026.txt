@@ -1,0 +1,183 @@
+﻿2026 Yılı Türkiye Havacılık ve Uzay Sanayii Staj Ekosistemi: 12 Mart İtibarıyla Açık Pozisyonlar, Ana Yüklenici ve Alt Yüklenici Kapasite Analizi
+Yönetici Özeti ve Sektörel Bağlam
+Türkiye'nin savunma, havacılık ve uzay sanayii, 2026 yılı itibarıyla tasarımdan seri üretime, alt sistem tedariğinden karmaşık entegrasyon süreçlerine kadar her alanda muazzam bir büyüme ve kurumsallaşma evresine girmiş bulunmaktadır. Bu devasa ekosistemin sürdürülebilirliği, küresel rekabet gücünün korunması ve milli projelerin (Milli Muharip Uçak KAAN, HÜRJET, AKINCI, KIZILELMA, ANKA-3 vb.) takvimlerine uygun olarak ilerletilebilmesi, büyük ölçüde nitelikli insan kaynağının erken aşamada tespit edilip yetiştirilmesine bağlıdır. Üniversite-sanayi iş birliğinin en somut ve kritik aşaması olan staj programları, teorik mühendislik eğitiminin pratik saha uygulamalarına dönüştüğü yegâne platformdur. Havacılık ve Uzay Mühendisliği disiplini, bu stratejik vizyonun tam merkezinde yer almaktadır.
+Araştırma tarihi olan 12 Mart 2026 itibarıyla, Türkiye'de bahar dönemi işe alım ve yaz stajı başvuru pencereleri en hareketli, rekabetçi ve kritik günlerini yaşamaktadır. Sektörün ana yüklenicileri (Original Equipment Manufacturers - OEM) olarak konumlanan TUSAŞ, TEI, ASELSAN, ROKETSAN, HAVELSAN ve STM gibi devasa yapıların yanı sıra, Ankara OSTİM ve çeşitli teknoparklarda (ODTÜ, Hacettepe) yer alan tedarik zincirinin can damarını oluşturan alt yükleniciler, geleceğin mühendislerini bünyelerine katmak için çok katmanlı, yetkinlik bazlı yetenek kazanımı programları yürütmektedir.
+Bu kapsamlı ve derinlemesine araştırma raporu, 12 Mart 2026 tarihi bağlamında Havacılık ve Uzay Mühendisliği öğrencilerinin başvuru yapabileceği tüm aktif staj programlarını, bu programların değerlendirme algoritmalarını, yasal zorunlulukları, alt yüklenici KOBİ kapasitelerini ve ekosistemin yapısal özelliklerini ampirik veriler ışığında incelemektedir.
+Kamu Ekosistemi Entegrasyonu ve Ulusal Staj Programı (USP)
+Havacılık ve uzay alanında faaliyet gösteren kamu kurumları ve kamu iştiraki savunma sanayii şirketleri, genç yeteneklere fırsat eşitliği sunmak, liyakati öncelemek ve sübjektif değerlendirmeleri ortadan kaldırmak amacıyla yetenek kazanımı süreçlerini büyük oranda merkezileştirmiştir. T.C. Cumhurbaşkanlığı himayelerinde ve İŞKUR koordinasyonunda yürütülen Kariyer Kapısı "Ulusal Staj Programı" (USP), bu vizyonun en büyük yansımasıdır ve stajyer alımlarında ana omurgayı oluşturmaktadır.
+2026 Yılı USP Başvuru Takvimi ve Değerlendirme Algoritması
+2026 yılı Ulusal Staj Programı başvuruları 6 Ocak tarihinde başlamış olup, sürecin kapanış tarihi 16 Mart 2026 olarak belirlenmiştir.1 12 Mart 2026 tarihi itibarıyla Havacılık ve Uzay Mühendisliği adaylarının sisteme başvurularını tamamlamak, yetkinliklerini belgelemek ve güncel transkriptlerini yüklemek için yalnızca birkaç günlük dar bir zaman penceresi kalmıştır. Sektörün zirvesinde yer alan ana yükleniciler (örneğin TUSAŞ), üniversitelerin ilgili lisans bölümlerinden ve TUSAŞ-Kazan Meslek Yüksekokulu gibi spesifik ön lisans programlarından alacakları stajyerlerin önemli bir bölümünü bu merkezi havuz üzerinden seçmektedir.3
+Ulusal Staj Programı'nın teknik mühendislik öğrencileri için temel avantajı, liyakat ve yetkinlik bazlı, kör değerlendirme (blind review) yapan bir algoritma kullanmasıdır. Sistem; adayların akademik not ortalamalarını (GPA), ulusal ve uluslararası standartlardaki yabancı dil puanlarını, katıldıkları mesleki eğitimleri, TEKNOFEST gibi mühendislik yarışmalarındaki derecelerini ve bilimsel projelerini tokenize ederek standartlaştırılmış bir "yeterlilik endeks skoru" üretmektedir. Bu skor, kurumların İnsan Kaynakları departmanlarına kimlik bilgileri, cinsiyet ve üniversite adı gizlenmiş bir biçimde sunulmaktadır. Bu yapısal durum, yalnızca büyükşehirlerdeki belirli köklü üniversitelerde okuyan öğrencilerin değil, Anadolu'nun dört bir yanındaki nitelikli havacılık mühendisliği adaylarının da savunma sanayii devlerinde staj bulma olasılığını matematiksel olarak maksimize etmektedir.
+Ana Yüklenicilerde (Tier-1 OEM) Aktif Staj Fırsatları ve Teknik Beklentiler
+12 Mart 2026 tarihi bağlamında, Türk savunma ve havacılık sanayiinin "Ana Yüklenici" konumundaki şirketlerinin neredeyse tamamı yaz stajı başvuru platformlarını aktif halde tutmaktadır. Başvuru pencereleri ağırlıklı olarak Mart ayının son günlerine (29-31 Mart) kadar açık kalacaktır. Aşağıda her bir stratejik kurumun yürüttüğü staj programı, Havacılık ve Uzay Mühendisliği disiplini özelinde detaylandırılmıştır.
+1. TEI - TUSAŞ Motor Sanayii A.Ş. (Kariyerini Uçur Programı)
+Eskişehir merkezli TEI, Türkiye'nin milli havacılık motorlarını (TEI-TF6000 turbofan, TEI-TS1400 turboshaft, pistonlu İHA motorları vb.) tasarlayan, geliştiren, üreten ve test eden en kritik mühendislik merkezidir. Bir Havacılık ve Uzay Mühendisliği öğrencisi için aerodinamik, kompresör dizaynı, türbin soğutma sistemleri, yanma odası termodinamiği ve yapısal yorulma (fatigue) analizi alanlarında doğrudan tecrübe edinilebilecek yegâne adreslerden biridir. Açık pozisyonlar incelendiğinde; Yorulma ve Dayanım Mühendisi (Fatigue and Durability Engineer), Aeromekanik Mühendisi, Stres Analiz Mühendisi ve Mekanik Tasarım Mühendisi gibi derin uzmanlık gerektiren kadroların TEI bünyesinde aktif olduğu görülmektedir.4 Bu durum, stajyerlerin karşılaşacağı teknik ortamın ciddiyetini yansıtmaktadır.
+TEI, 2026 yılı için "Kariyerini Uçur Yaz Staj Programı"nı (KU-2026) başlatmış olup son başvuru tarihini 31 Mart 2026 saat 23:55 olarak ilan etmiştir.4
+TEI Başvuru Kriterleri, HRPeak Süreci ve Psikometrik Ölçümler
+TEI staj programına başvuracak Havacılık ve Uzay Mühendisliği, Uçak Mühendisliği ve Uzay Mühendisliği adaylarının 2026-2027 eğitim-öğretim döneminde 3. veya 4. sınıfa geçecek olmaları gerekmektedir.4 Akademik başarı kriteri olarak genel not ortalamasının (GPA) minimum 2.50 / 4.00 olması şart koşulmuştur ve program yalnızca "Zorunlu Yaz Stajı" yükümlülüğü bulunan öğrencileri kabul etmektedir.4
+Başvurular, TEI'nin entegre ettiği HRPeak Değerlendirme Merkezi üzerinden alınmaktadır. Adayların sisteme kayıt olurken T.C. Kimlik Numarası, güncel öğrenim durumu (üniversite, bölüm, sınıf, beklenen mezuniyet yılı), iletişim bilgileri ve PDF/Word formatında detaylı özgeçmişlerini sisteme yüklemeleri zorunludur.4 Ayrıca KVKK aydınlatma metni ve üyelik sözleşmelerinin onaylanması gerekmektedir.4
+Değerlendirme süreci, havacılık motorları tasarımının sıfır hata toleransı gerektiren doğasına uygun olarak oldukça katmanlı ve zorludur. İlgili adaylar dört aşamalı bir filtreden geçmektedir 4:
+1. Başvuru Formu İncelemesi: Ön koşulların (GPA, bölüm, sınıf) algoritmik kontrolü.
+2. Genel Yetenek Testi: Mühendislik kavrayışını, uzamsal zekâyı, sayısal ve analitik mantığı ölçen zaman kısıtlı psikometrik testler.
+3. Yabancı Dil Testi: Havacılık terminolojisi, motor bakım kılavuzları ve uluslararası tasarım standartları tamamen İngilizce olduğundan, adayın ileri düzeyde (very good level) İngilizce bilgisi ölçülmektedir.
+4. Kişilik Envanteri Testi: Adayın takım çalışmasına yatkınlığı, stres altındaki karar alma mekanizmaları ve uzun soluklu Ar-Ge projelerine uyum sağlama potansiyeli değerlendirilir.
+KU-2026 Staj Dönemleri Takvimi
+TEI, öğrencilerin üniversitelerindeki akademik takvimlerine (yaz okulu, bütünleme sınavları vb.) uyum sağlamak adına oldukça esnek ve çok seçenekli staj dönemleri sunmaktadır.4 Adaylar 20, 25 veya 30 iş gününü kapsayan periyotlardan birini tercih edebilmektedir:
+TEI Staj Dönemi
+	20 İş Günü Seçeneği
+	25 İş Günü Seçeneği
+	30 İş Günü Seçeneği
+	1. Dönem (Haziran)
+	22.06.2026 - 24.07.2026
+	22.06.2026 - 31.07.2026
+	22.06.2026 - 07.08.2026
+	2. Dönem (Temmuz)
+	20.07.2026 - 14.08.2026
+	20.07.2026 - 21.08.2026
+	20.07.2026 - 28.08.2026
+	3. Dönem (Ağustos)
+	10.08.2026 - 04.09.2026
+	10.08.2026 - 11.09.2026
+	10.08.2026 - 18.09.2026
+	(Önemli Not: Sistemsel ve idari düzenlemeler gereği, Haziran dönemi başlangıçlı tüm seçeneklerde 13-17 Temmuz haftası çalışma takvimi dışında tutulmuştur.4)
+2. ASELSAN (a Yetenek Yaz Stajı 2026)
+Elektronik harp sistemleri, radar teknolojileri, aviyonik süitler ve elektro-optik hedefleme sistemleri (örn. ASELFLIR) alanlarında dünya çapında bir dev olan ASELSAN, askeri hava platformlarının "beynini ve sinir sistemini" tasarlamaktadır. Bir Havacılık ve Uzay Mühendisi için ASELSAN, yalnızca aerodinamik tasarım değil, karmaşık faydalı yüklerin (payload) platformlara entegrasyonu, podların aerodinamik dirence (drag) etkisinin hesaplanması, yapısal şok/titreşim analizleri ve uçuş kontrol bilgisayarlarının sistem mühendisliği bağlamında incelenebileceği olağanüstü bir ekosistemdir.
+ASELSAN "a Yetenek Yaz Stajı 2026" programı başvuruları 27 Şubat tarihinde açılmış olup 31 Mart 2026 saat 13:59 itibarıyla Savunma Kariyer platformu üzerinden sona erecektir.5
+ASELSAN Başvuru Kriterleri ve Kariyer Platformu
+Program, Havacılık ve Uzay Mühendisliği, Uçak Mühendisliği, Uzay Mühendisliği, Uzay ve Uydu Mühendisliği lisans öğrencilerini (3. ve 4. sınıf) spesifik olarak hedeflemektedir.5 Adayların sisteme girişleri LinkedIn hesapları veya T.C. Kimlik Numarası üzerinden yapılabilmekte olup, KVKK kapsamında kişisel verilerin işlenmesine yönelik açık rıza onayı alınmaktadır.5 Başvuru kriterleri son derece nettir:
+* Genel not ortalamasının (GPA) 2.50/4.00 ve üzerinde olması.5
+* Stajın yasal olarak "Zorunlu Staj" kapsamında yapılması. ASELSAN kesinlikle gönüllü staj kabul etmemektedir ve uzun dönem lisans stajı imkânı sunmamaktadır.5
+* Daha fazla öğrenciye fırsat eşitliği sunabilmek adına, adayın daha önce ASELSAN bünyesinde hiçbir şekilde staj yapmamış olması şartı aranmaktadır.5
+ASELSAN stajyerlerine (a Yetenekleri) sağlanan imkânlar, 3308 sayılı kanunun ötesine geçerek bir yetenek elde tutma stratejisine dönüşmüştür. Öğrencilere haftada 5 gün çalışma karşılığında asgari ücretin %30'u oranında maaş ödenmekte; geniş ring/servis ağı, kahvaltı ve öğle yemeği imkânı sunulmaktadır.5 Akademik gelişimi desteklemek amacıyla teknik mentörlük, asenkron gelişim yolculukları ve gerçek mühendislik projelerinde yer alma ayrıcalıkları sağlanmaktadır.5 Başvuru sonuçları Mayıs 2026'nın ilk haftasında "staj@aselsan.com" adresi üzerinden adaylara tebliğ edilecektir.5
+ASELSAN 2026 Staj Dönemleri Takvimi
+Öğrenciler 20, 25 veya 30 iş gününü kapsayan periyotlardan birini tercih edebilmektedir. Staj süreleri, adayın okulunun zorunlu kıldığı azami süreyi (maksimum 30 iş günü) aşamamaktadır.5
+
+
+ASELSAN Staj Dönemi
+	20 İş Günü Seçeneği
+	25 İş Günü Seçeneği
+	30 İş Günü Seçeneği
+	1. Dönem (Haziran)
+	22.06.2026 – 20.07.2026
+	22.06.2026 – 27.07.2026
+	22.06.2026 – 03.08.2026
+	2. Dönem (Temmuz)
+	20.07.2026 – 21.08.2026
+	20.07.2026 – 28.08.2026
+	20.07.2026 – 04.09.2026
+	3. Dönem (Ağustos)
+	17.08.2026 – 11.09.2026
+	17.08.2026 – 18.09.2026
+	(Ağustos için 30 gün opsiyonu belirtilmemiştir)
+	(Kaynak: 5)
+	
+
+	
+
+	
+
+	3. ROKETSAN (STAGE 2026 Programı)
+Türkiye'nin roket, füze, uzay fırlatma sistemleri ve akıllı mühimmat sistemleri tasarım ve üretim merkezi olan ROKETSAN, havacılık ve uzay mühendisleri için yüksek hızlı (süpersonik/hipersonik) aerodinamik, katı/sıvı yakıtlı itki sistemleri, yörünge mekaniği ve balistik analizi alanlarında yegâne çalışma ortamıdır. Ankara Elmadağ'da (Kemalpaşa Mah. Şehit Yüzbaşı Adem Kutlu Sokak) yer alan devasa entegre tesislerinde gerçekleştirilecek olan "STAGE 2026 - ROKETSAN Staj Programı", öğrencilere teorik akışkanlar mekaniği bilgilerini, rüzgar tüneli verileri ve atış testleri ile harmanlama imkânı sunmaktadır.9
+ROKETSAN staj başvuruları 30 Mart 2026 saat 14:00 itibarıyla Savunma Kariyer platformu üzerinden sona erecektir (Bazı duyurularda bu tarih 31 Mart Salı gün sonu olarak da ifade edilmiştir).9 Şirket, şartları sağlayan adayları yoğun çevrimiçi değerlendirme süreçlerine (genel yetenek, analitik düşünme ve spesifik teknik testler) dahil edeceğini ilan etmiştir.9
+4. HAVELSAN (HİT Yaz Stajı 2026)
+HAVELSAN, havacılık sektöründe otonom sistemler, tam uçuş simülatörleri (F-16, ATAK, HÜRKUŞ simülatörleri), uçuş kontrol yazılımları, hava platformu veri bağları (data link) ve C4ISR (Komuta Kontrol Muhabere Bilgisayar İstihbarat Keşif ve Gözetleme) ağları üzerine uzmanlaşmıştır. Bir Havacılık ve Uzay Mühendisi, HAVELSAN bünyesinde hava platformlarının 6 serbestlik dereceli (6-DOF) uçuş dinamik modellerinin (aerodinamik türevlerin ve atalet momentlerinin hesaplanarak) gerçek zamanlı simülatörlere aktarılması gibi spesifik ve aerodinamik/yazılım kesişimi konularda çalışmaktadır.
+HİT Yaz Stajı başvuruları 01 Mart - 31 Mart 2026 tarihleri arasında yapılmaktadır.12 Başvuru ve mülakat değerlendirme süreçleri Mayıs ayında sonuçlanacaktır.12
+Özellikle sistem mühendisliği, gömülü yazılımlar ve simülasyon alanlarına yönelmek isteyen havacılık adayları için HAVELSAN'ın belirlediği spesifik teknik kriterler şunlardır:
+* İlgili mühendislik bölümlerinin 3. veya 4. sınıf öğrencisi olmak.8
+* Minimum 2.50 / 4.00 genel not ortalamasına sahip olmak.8
+* Yeterli düzeyde İngilizce bilgisine sahip olmak.8
+* Simülasyon ve görselleştirme projeleri için 3D modelleme hakkında bilgi sahibi olmak.8 Bu şart, aerodinamik dış yüzeylerin veya kabin içi ergonomik unsurların sanal gerçeklik (VR) veya simülasyon ortamlarına aktarılmasında kullanılacak CAD (Bilgisayar Destekli Tasarım) yetkinliklerini ölçmektedir.
+HAVELSAN ayrıca, yazılım ve sistem geliştirme odaklı öğrenciler için SUİT 2025-2026 (Savunma Sanayii Üniversite İşbirliği ve Teknolojik Araştırmalar) programı ile bitirme projelerine maddi destek, teknik mentörlük ve laboratuvar erişimi sağlamaktadır (SUİT başvuruları akademik yıl başında Eylül ayında yapılmaktadır).13
+5. STM (Savunma Teknolojileri Mühendislik ve Tic. A.Ş.)
+Ana odağı askeri deniz platformları (MİLGEM korvetleri, İ-Sınıfı fırkateynler, denizaltı modernizasyonu) olmasına rağmen STM, havacılık ve uzay sektöründe taktik mini İHA sistemleri (döner kanatlı vurucu İHA Kargu, sabit kanatlı dolanan mühimmat Alpagu, keşif İHA'sı Togan), sürü zekâsı (swarm intelligence) ve uydu/uzay gözlem teknolojileri konularında muazzam bir ürün yelpazesine ve pazar payına sahiptir. Uçan kanat aerodinamiği, pervane/rotor optimizasyonu, CFD (Hesaplamalı Akışkanlar Dinamiği) analizleri ve rüzgar tüneli doğrulama testleri gibi spesifik konularda havacılık mühendisleri aktif ve yönlendirici rol almaktadır.
+Ankara Çankaya merkezli (Mustafa Kemal Mahallesi) firmanın staj başvuruları, Savunma Kariyer platformu üzerinden alınmakta olup son başvuru tarihi 29 Mart 2026 saat 13:59'dur.14 STM, stajyer adaylarına son derece esnek başlangıç tarihleri sunarak akademik takvim çakışmalarının önüne geçmeyi hedeflemektedir: 1 Haziran, 1 Temmuz, 20 Temmuz, 3 Ağustos, 1 Eylül ve 1 Ekim.14
+6. TUSAŞ (Türk Havacılık ve Uzay Sanayii A.Ş.) ve SDT Uzay ve Savunma Teknolojileri
+Türkiye'nin en büyük entegre havacılık platform üreticisi olan TUSAŞ (Kahramankazan/Ankara), Milli Muharip Uçak KAAN, hafif taarruz uçağı HÜRJET, ATAK serisi helikopterler, ANKA ve AKSUNGUR insansız hava araçları gibi vizyon projelerinin doğum yeridir. Yapısal tasarım, sistem entegrasyonu, aviyonik, test ve uçuş hattı operasyonlarının tamamı burada yürütülmektedir. TUSAŞ'ın doğrudan yürüttüğü staj başvuru programları (SKY Discover, SKY Experience vb.) genellikle firmanın kendi kariyer portalları veya Kariyer Kapısı (USP) üzerinden işlemektedir.3 Bununla birlikte, Savunma Kariyer platformunda yayımlanan güncel TUSAŞ lokasyonlu (Fethiye Mah. Havacılık Bulvarı No:17) staj ilanının son başvuru tarihi 31 Mart 2026 saat 13:59 olarak belirlenmiştir ve zorunlu staj yazısı talep edilmektedir.16 Ayrıca şirketin genel işe alım ilanları (örneğin Sistem Mühendisi pozisyonu) Ankara yerleşkesi için 31 Aralık 2026 tarihine kadar açık tutularak sürekli yetenek akışı sağlanmaktadır.15
+ODTÜ Teknokent merkezli köklü savunma firması SDT Uzay ve Savunma Teknolojileri ise; hava platformu elektronik harp (EH) simülasyonları, hava-yer mühimmatları için telemetri ve veri kayıt sistemleri, pod tabanlı RF sistemleri üzerine çalışmakta olup, staj başvurularını Savunma Kariyer ağı üzerinden değerlendirmeye almaktadır.11 ODTÜ Teknokent ayrıca SATGEB Bölgesinde TUSAŞ Ar-Ge binalarına (Savunma Sanayii Akademi) ev sahipliği yaparak üniversite-sanayi bağını fiziksel olarak kurmaktadır.17
+Başvurusu Tamamlanmış (Kapanmış) Olan Kritik Programların Tarihsel Bağlamı
+Ekosistemin bütünlüğünü kavramak ve bir havacılık mühendisinin yıllık kariyer planlamasını doğru kurgulaması adına, 12 Mart 2026 tarihinden hemen önce kapanmış olan bazı stratejik staj programlarının dinamiklerini incelemek elzemdir:
+* BAYKAR Teknoloji: AKINCI, KIZILELMA (MİUS) ve TB3 projeleriyle küresel havacılık doktrinlerini değiştiren Baykar, erken yetenek kazanımını benimsemiş olup 2026 Yaz Stajı başvurularını 9 Şubat 2026 tarihinde erkenden sonlandırmıştır. Çevrimiçi test ve video mülakat süreçlerini 16-18 Şubat aralığında tamamlayan kurum, değerlendirme sürecini 14 Nisan'a kadar uzatmıştır. Baykar bünyesinde yaz stajları 22 Haziran - 8 Ağustos ile 10 Ağustos - 26 Eylül periyotlarında gerçekleştirilecektir.18
+* Turkish Technic (Türk Hava Yolları Teknik A.Ş.): Sivil havacılık bakım, onarım ve revizyon (MRO) alanında dünyanın en büyük tedarikçilerinden olan Turkish Technic, hat bakımdan komponent revizyonuna kadar devasa bir mühendislik sahası sunar. Şirketin 2026 Staj Programı başvuruları 6 Mart 2026 tarihinde kapanmıştır.20
+* Vizyoner Genç KÖK ve KAPSÜL+ Programları: Savunma Sanayii Başkanlığı vizyonuyla yürütülen usta-çırak ve mentörlük odaklı KÖK programı uzun soluklu bir girişimdir.21 Öte yandan, TUSAŞ (KAAN projesi) ve STM (İstif Sınıfı Fırkateyn projesi) mühendisleri tarafından üniversite öğrencilerine stratejik sistemlerin teknik ve operasyonel vizyonlarının aktarıldığı ODTÜ Teknokent KAPSÜL+ (Bölüm 1) tanıtım programı başvuruları 2 Şubat 2026 tarihinde sonlanmıştır.17
+________________
+OSTİM Sanayi Ekosistemi ve Havacılık Alt Yüklenici (Subcontractor) Kapasite Analizi
+Bir ülkenin havacılık ve uzay sanayiinin gerçek endüstriyel derinliği ve üretim gücü, yalnızca nihai platformu tasarlayan ve marka değerini taşıyan ana yüklenicilerin (TUSAŞ, Baykar vb.) kapasitesiyle değil; aynı zamanda o platformun on binlerce parçasını, hidrolik valfini, elektronik devresini, uçuş bilgisayarı şasesini ve kompozit panelini AS9100 uzay ve havacılık kalite standartlarında, mikron seviyesinde hassasiyetle üreten alt yüklenici KOBİ'lerin niteliği ile ölçülmektedir.
+Ankara'da konumlanan OSTİM (Ortadoğu Sanayi ve Ticaret Merkezi) ve bilhassa OSSA (OSTİM Savunma ve Havacılık Kümelenmesi), Havacılık ve Uzay Mühendisliği öğrencileri için ana firmaların sağladığı "sistem mühendisliği ve proje yönetimi" perspektifinin yanı sıra, doğrudan üretime, takım tezgâhlarına, tolerans yönetimine, malzeme bilimine ve kalite kontrole (Quality Assurance) temas edebilecekleri devasa bir uygulamalı mühendislik laboratuvarıdır.
+OSSA'nın Kurumsal Yapısı, Misyonu ve Stratejik Komiteleri
+OSSA, üye KOBİ'lerin savunma ve havacılık ana sanayi ile entegrasyonunu hızlandırmak, üretim yetkinliklerini uluslararası boyuta taşımak ve ekosistemin topyekûn büyümesini sağlamak amacıyla spesifik stratejik komiteler üzerinden faaliyet göstermektedir. Bu komiteler, akademik bilginin sanayiye aktarımını doğrudan yönlendirmekte ve stajyer/yeni mezun istihdamını şekillendirmektedir 22:
+1. Millileştirme Komitesi: Savunma Sanayii Başkanlığı'nın (SSB) tam bağımsızlık vizyonu doğrultusunda, dışa bağımlılığı azaltmak ve OSSA'yı ana projelerin yerlileştirme süreçlerine entegre etmekle görevlidir.22 KOBİ'lerin SSB ve ana yüklenici ihalelerine katılımını teşvik ederek, kritik komponentlerin yerli malzemelerle üretilmesini hedefler. Stajyerler için bu komitenin faaliyet alanındaki firmalarda çalışmak, "tersine mühendislik" (reverse engineering) ve milli tasarım konularında benzersiz tecrübeler sunar.
+2. Eğitim / Yetkinlik Geliştirme Komitesi: OSSA üyesi firmaların ihtiyaç duyduğu yüksek nitelikli personelin eğitim ve istihdamıyla ilgilenir.22 Havacılık endüstrisinin vazgeçilmezi olan AS9100, ISO 9001 gibi Kalite Yönetim Sistemleri, Kurumsal Kaynak Planlaması (ERP) ve teknik/idari eğitimlerin düzenlenmesinden sorumludur. Bu eğitimler, URGE (Uluslararası Rekabetçiliğin Geliştirilmesi) projeleri kapsamında da desteklenmektedir.22
+3. Üniversite - Sanayi İş Birliği Komitesi: Üniversitelerin Teknoloji Transfer Ofisleri (TTO) ve teknoparkları ile sürekli entegrasyon kurarak, akademik Ar-Ge yetkinliklerinin millî projelere dahil edilmesini sağlar.22 Ürün seviyesindeki projelerin fizibilite ve sanayide uygulanabilirlik araştırmalarını yürütür. Şirketlerin kabiliyet matrislerine göre SSB ve MSB (Milli Savunma Bakanlığı) ile düzenli geri bildirim ve bilgi alışverişi yapar.22
+OSSA Havacılık ve Uzay Alt Yüklenicileri Kategorizasyonu
+OSSA firma veri tabanındaki sınıflandırma ve "Firma Arşivi" dokümanları incelendiğinde, doğrudan havacılık, uzay, aviyonik, ileri malzeme ve hassas üretim alanlarında uzmanlaşmış çok sayıda firmanın faaliyet gösterdiği görülmektedir.22 Detaylı arama kriterleri, firmaların çalışan sayılarına (>100, 50-100, 0-50) ve AS9100 Havacılık Sertifikasyonu sahipliğine göre yapılabilmektedir.22
+Staj dönemlerinde öğrencilerin teorik aerodinamik, yapısal mekanik ve malzeme bilimi derslerinde gördükleri konuların üretim sahasındaki karşılıkları, bu alt yüklenicilerin ihtisas alanlarında yatmaktadır. Aşağıdaki tabloda, OSSA bünyesinde öne çıkan firmalar ve Havacılık Mühendisliği stajyerlerine katabilecekleri spesifik değerler işlevsel olarak gruplandırılmıştır:
+Endüstriyel Faaliyet Kategorisi
+	Kritik OSSA Üyesi Firmalar (Örneklem)
+	Havacılık ve Uzay Mühendisliği Uygulama ve Öğrenim Çıktıları
+	Özel Havacılık ve Uzay Tasarım / Sistem Mühendisliği
+	Apeks Havacılık Tasarım, Aril Havacılık, MİNA Uzay Havacılık, Sekiza Savunma Havacılık
+	Uydu alt bileşen tasarımı, sistem entegrasyonu, konsept hava aracı aerodinamik modellemeleri, aviyonik donanım/yazılım testi ve tasarım doğrulama süreçleri.
+	Kabin İçi Sistemler ve Özel Teknolojiler
+	TCI Kabin İçi Sistemler, SKYMARK Havacılık Teknolojileri
+	Yolcu ve kargo uçakları için ergonomik, hafif ve FAA/EASA yanmazlık sertifikalı kabin ekipmanı tasarımı. Kompozit yapıların tasarımı ve üretimi.
+	Talaşlı İmalat, Döküm, Dövme ve Sac Şekillendirme
+	Gür Metal Hassas Döküm, Dirinler Makina, Dora Makina, Doğanlar Çelik Dövme
+	Titanyum ve alüminyum (7000 serisi) havacılık alaşımlarının 5 eksen CNC tezgâhlarda işlenmesi. Uçak iniş takımları ve motor komponentleri için döküm/dövme metalurjisi.
+	Elektronik, Elektromekanik ve Aviyonik Altyapı
+	2G Havacılık Elektronik, Teknokar Savunma ve Havacılık, ANDAR Elektromekanik, ELSİS Elektronik
+	Askeri standartlarda (MIL-STD) hava aracı kablajı (harness) üretimi. Uçuş kontrol yüzeylerini tahrik eden aktüatör ve elektromekanik servo sistemlerin tasarımı.
+	Test, Kalite Kontrol (NDT) ve Yüzey İşlemleri
+	EPSİLON NDT, Akalın Isıl İşlem, EST Endüstri Teknik Yüzey Kaplama, Vibromak Yüzey İşlem
+	Türbin pallerinde ve uçak gövdesinde oluşabilecek mikro çatlakların tahribatsız muayene (NDT) ile tespiti. Uzay ortamına ve korozyona dayanıklı yüzey anodizasyon/kaplama işlemleri.
+	(Kaynak: 22)
+Alt Yüklenici (KOBİ) Stajlarının Stratejik Değeri
+Büyük OEM firmalarında on binlerce çalışanın arasında dar bir sistem modülüne odaklanan stajyerlerin aksine, OSTİM ve OSSA ekosistemindeki 50-100 çalışanlı çevik KOBİ'lerde staj yapan bir mühendis adayı; ürünün CAD tasarımından CNC CAM programlamasına, tolerans analizinden CMM (Koordinat Ölçüm Makinesi) ile kalite kontrolüne, yüzey kaplamasından AS9100 sertifikasyon evraklarının hazırlanmasına kadar tüm süreci uçtan uca gözlemleme şansı bulur.
+Önemli Stratejik Not: OSTİM ve çevre sanayi sitelerindeki bu teknoloji odaklı KOBİ'lerin staj alım süreçleri, TEI veya ASELSAN gibi katı bir merkezi takvime (örneğin "31 Mart kapanış") ve formal HRPeak sınav sistemlerine 4 her zaman bağlı kalmayabilmektedir. Öğrencilerin OSSA Firma Rehberi (directory.pdf) ve Yetenek Matrisi (matris.pdf) 22 dokümanlarını inceleyerek doğrudan şirketlerin İnsan Kaynakları veya Mühendislik birimi yöneticileriyle profesyonel ağlar (LinkedIn) veya doğrudan e-posta yoluyla iletişime geçmeleri, geleneksel bir kariyer portalı başvurusundan çok daha yüksek ve hızlı geri dönüş oranları sağlamaktadır. Hacettepe Teknokent'te yerleşik savunma ve havacılık firmalarının 02 Şubat - 31 Mart 2026 aralığındaki açık staj başvuruları da benzer bir proaktif iletişim yaklaşımı gerektirmektedir.23
+________________
+Yetenek Kazanımı: Değerlendirme Algoritmaları ve Psikometrik Ölçümler
+Havacılık ve Uzay sanayiinin insan hayatını ve milyarlarca dolarlık milli varlıkları riske atmayan, sıfır hata toleransı (zero-defect tolerance) ile çalışan katı doğası, insan kaynakları işe alım ve stajyer seçim algoritmalarına da doğrudan nüfuz etmiştir. 2026 yılı itibarıyla savunma sanayiinde stajyer seçimi basit bir özgeçmiş (CV) okumasından çıkmış; adayın psikometrik dayanıklılığının, analitik kapasitesinin ve akademik altyapısının ölçüldüğü çok boyutlu bir matris optimizasyonu problemine dönüşmüştür.
+Akademik Metrikler (GPA) ve Kırıcı Parametreler
+Adayların eleme süreçlerini geçme olasılığını belirleyen en keskin ve objektif parametre Genel Not Ortalamasıdır (GPA). ASELSAN, TEI ve HAVELSAN gibi kurumların tamamı taban puan olarak 2.50 / 4.00 sınırını koymuştur.4 Bu rasyonel sınır, adayın Havacılık Mühendisliğinin temelini oluşturan Diferansiyel Denklemler, Aerodinamik, Akışkanlar Mekaniği, Isı Transferi ve Yapısal Mukavemet gibi geçilmesi zor derslerden asgari mühendislik kavrayışını sağladığının kanıtı olarak kabul edilmektedir. Üniversitenin zorluk derecesi bağımsız olarak, GPA bir "öğrenmeyi öğrenme" ve disiplin göstergesidir.
+Bulut Tabanlı Psikometrik Değerlendirmeler: HRPeak Örneği
+Özellikle motor teknolojileri geliştiren TEI tarafından aktif olarak kullanılan HRPeak 4 ve benzeri Çevrimiçi Değerlendirme Merkezleri (Online Assessment Centers), adayların kognitif (bilişsel) yeteneklerini standartlaştırılmış testlerle ölçmektedir. Bir havacılık mühendisi adayı bu testlerde şu bileşenlerle karşılaşır:
+* Genel Yetenek Testi: Sadece matematiksel hesaplama değil; mekanik kavrama, dişli çark kinematiği, üç boyutlu uzaysal algı (örneğin bir hava aracının roll, pitch, yaw eksenlerindeki hareketlerinin ve platform rotasyonlarının zihinsel tasarımı) ile sayısal ve sözel mantık analizi.
+* Kişilik Envanteri Testi: Havacılık sektörünün yoğun stresli, zaman kısıtlı (time-critical) ve kurallara sıkı sıkıya bağlı (procedure-oriented) çalışma kültürüne adayın psikolojik adaptasyon kapasitesi ölçülür. Askeri standartların gerektirdiği titizlik ve güvenlik algısı test edilir.
+* Yabancı Dil Testi: Havacılık mühendisliğinin evrensel dili İngilizcedir. EASA/FAA regülasyonları, malzeme veri föyleri (data sheets), analiz yazılımlarının dili ve bakım prosedürleri (maintenance manuals) istisnasız İngilizcedir. Testler, adayın bu teknik metinleri hatasız anlama hızını ölçer.4
+________________
+Mevzuat Kısıtlamaları: "Zorunlu Staj" Hukuki Çerçevesi
+Savunma ve havacılık şirketlerinin işe alım metinlerinde en sık vurgulanan ve stajyer adaylarını idari olarak en çok zorlayan konu "Zorunlu Staj" şartıdır.4 Kurumlar (özellikle ASELSAN ve TEI) inisiyatif alarak gönüllü stajyer kabul etmeyi kesin bir dille reddetmektedir. Bunun temelinde güçlü yasal ve operasyonel nedenler yatmaktadır:
+1. 3308 Sayılı Mesleki Eğitim Kanunu: Bu kanun uyarınca, işletmelerde mesleki eğitim veya staj gören öğrencilerin iş kazası ve meslek hastalığı sigorta primleri, öğrencinin kayıtlı olduğu eğitim kurumu (Üniversite) tarafından Sosyal Güvenlik Kurumuna (SGK) ödenmektedir. Stajın "zorunlu" olmaması durumunda üniversite bu primi ödemez. Şirketler, yüksek riskli üretim sahalarında ve laboratuvarlarda sigortasız (veya yasal sorumluluğu belirsiz) öğrenci bulundurmayı hukuken göze alamaz.
+2. Endüstriyel Gizlilik ve Kişi Güvenlik Belgesi: Savunma sanayii projeleri "Gizli" veya "Çok Gizli" gizlilik derecesine sahiptir. Zorunlu stajyerler, üniversiteleri tarafından resmi olarak kuruma yönlendirilen, kimlik tespiti yapılmış ve Gizlilik Sözleşmesi (NDA) imzalamaya ehil kişilerdir. Kurumsal prosedürler gereği, staj süresi kısa dahi olsa adayların geçmişleri taranmakta ve tesise giriş protokolleri bu zorunlu staj belgesine istinaden başlatılmaktadır.16
+3. Mali Yükümlülükler: 3308 sayılı kanun, stajyerlere 5 iş günü çalışma karşılığında asgari ücretin %30'u (net) tutarında yasal ödeme yapılmasını emretmektedir.5 Kurumlar, bütçe ve kontenjan planlamalarını Yükseköğretim Kurulu (YÖK) müfredatlarına uygun olarak belirlenmiş zorunlu staj gün sayılarına (20, 25 veya 30 gün) göre yapmaktadır.4
+________________
+Stratejik Sonuçlar ve Ekosistem Projeksiyonu
+12 Mart 2026 tarihi itibarıyla Türkiye havacılık ve uzay sektörü staj ekosisteminin mevcut arz-talep dengesi ve yapısal dinamikleri değerlendirildiğinde, ortaya çıkan bulgular şu şekildedir:
+* Zaman Pencerelerinin Daralması: Ulusal Staj Programı (16 Mart) 1, STM (29 Mart) 14, ROKETSAN (30 Mart) 10, ASELSAN, TEI, HAVELSAN, ODTÜ ve Hacettepe Teknokentler (31 Mart) 4 staj ilanlarının kapanmasına oldukça kısa bir süre kalmıştır. Havacılık ve Uzay Mühendisliği öğrencilerinin vakit kaybetmeksizin güncel not dökümlerini, üniversitelerinden alacakları resmi zorunlu staj belgelerini ve varsa 3D CAD/CAE sertifikalarını hazırlayarak ilgili bulut sistemlerine (HRPeak, Savunma Kariyer, Kariyer Kapısı) yüklemesi yaşamsal öneme sahiptir.
+* Genişletilmiş Kariyer Vizyonu Olarak KOBİ'ler: Sadece ana platform üreticisi (OEM) firmalara odaklanmak, bir mühendis adayının sektörel ufkunu daraltabilir. OSTİM ve OSSA ekosistemindeki alt yükleniciler 22, havacılık üretim bandının gerçek zorluklarını öğrenmek isteyen bir mühendis için emsalsizdir. Kompozit fırınlama (autoclave) eğrilerini, talaşlı imalatta ısı deformasyonlarını ve kalite güvence formlarını yerinde tecrübe etmek, mezuniyet sonrası TUSAŞ veya Baykar gibi kurumlarda girilecek "Mühendis İşe Alım Mülakatlarında" adayı salt teorik bilgiye sahip rakiplerinden ayıracak en önemli endüstriyel silah olacaktır.
+* Disiplinlerarası Yetkinlik İhtiyacı: Modern bir hava aracı (örneğin KAAN veya KIZILELMA), aerodinamik bir yüzeyin ötesinde, uçan devasa veri merkezleridir. Bu nedenle, Havacılık Mühendisliği eğitimine ek olarak; temel düzeyde Python/C++ kodlama mantığına, otonom kontrol sistemleri teorisine ve 3D Modelleme (CATIA, Siemens NX) 8 araçlarına hâkim olmak zorunluluk haline gelmiştir. Havacılık mühendisleri, ASELSAN ve HAVELSAN gibi yazılım/elektronik ağırlıklı devlerin aviyonik entegrasyon departmanlarında ancak bu disiplinlerarası dil ile var olabilirler.
+* Akademik Çıktıların Uygulamaya Dönüşümü: OSSA Üniversite-Sanayi İş Birliği komitesinin de hedeflediği üzere 22, öğrencilerin staj dönemi boyunca edindikleri vizyonu üniversitelerine taşıyarak, "bitirme projelerini" (örneğin HAVELSAN SUİT tarzı desteklenen programlar vasıtasıyla 13) doğrudan firmaların karşılaştığı bir üretim problemini çözmek üzerine kurgulamaları, stajı basit bir 20 günlük gözlem süreci olmaktan çıkarıp uzun vadeli ve kalıcı bir istihdam köprüsüne dönüştürecektir.
+Bu detaylı araştırma ve analiz; Türkiye'nin farklı üniversitelerinde eğitim gören, aerodinamik, itki sistemleri ve uzay mekaniği alanlarına tutkuyla bağlı Havacılık ve Uzay Mühendisliği öğrencilerinin, Mart 2026'nın bu yoğun yetenek avı döneminde kariyer rotalarını en doğru şekilde çizerken kullanabilecekleri stratejik bir veri tabanı niteliği taşımaktadır. Türk havacılık endüstrisinin küresel arenada kuracağı yeni denklemler, hiç şüphesiz bu staj programlarında ilk gerçek mühendislik tecrübesini yaşayacak olan liyakatli ve vizyoner genç mühendislerin teknik kabiliyetleri üzerinde yükselecektir.
+Alıntılanan çalışmalar
+1. erişim tarihi Mart 12, 2026, https://kariyer.ksbu.edu.tr/defaultx/ustslide/136/2026-yili-ulusal-staj-programi-basvurulari-basladi#:~:text=T.C.,6%20Ocak%20%2D%2016%20Mart%20aras%C4%B1ndad%C4%B1r.
+2. 2026 Yılı “Ulusal Staj Programı” Başvuruları - Aile ve Sosyal Hizmetler Bakanlığı, erişim tarihi Mart 12, 2026, https://www.aile.gov.tr/eydb/duyurular/2026-yili-ulusal-staj-programi-basvurulari/
+3. erişim tarihi Mart 12, 2026, https://kazanmyo.gazi.edu.tr/view/announcement/321121?type=1&item=ulusal-staj-programi-2026-basvurulari-basladi#:~:text=TUSA%C5%9E%2DKAZAN%20MESLEK%20Y%C3%9CKSEKOKULU&text=Cumhurba%C5%9Fkanl%C4%B1%C4%9F%C4%B1%20himayelerinde%20ve%20%C4%B0%C5%9EKUR%20koordinasyonunda,Mart%202026%20tarihleri%20aras%C4%B1nda%20al%C4%B1nmaktad%C4%B1r.
+4. TEI - Kariyerini Uçur Yaz Staj Programı / KU-2026, erişim tarihi Mart 12, 2026, https://tei.hrpeak.com/77s7ppacex7ur6q4h45k6lvsl2.job
+5. a Yetenek Yaz Stajı - ASELSAN, erişim tarihi Mart 12, 2026, https://www.aselsan.com/tr/ayetenekyazstaji
+6. a Yetenek Yaz Stajı 2026 - Ön Lisans - Savunma Kariyer | Savunma Sanayi İş ve Staj İlanları, erişim tarihi Mart 12, 2026, https://savunmakariyer.com/ilanlar/ilanDetay/698b107aa2b87038f897811e
+7. ASELSAN Yetenek Yaz Stajı 2026 Başvuruları Başladı - Kariyer Planlama, erişim tarihi Mart 12, 2026, https://kariyer.deu.edu.tr/duyurular/aselsan-yetenek-yaz-staji-2026-basvurulari-basladi/
+8. Savunma Sanayii Firmalarının Staj Şartları Ve Başvuru Tarihleri | Otomotiv Mühendisliği Bölümü - Gazi Üniversitesi, erişim tarihi Mart 12, 2026, https://tf-otomotiv.gazi.edu.tr/view/GetMainAnnouncementPage/291902/savunma-sanayii-firmalarinin-staj-sartlari-ve-basvuru-tarihleri
+9. erişim tarihi Mart 12, 2026, https://savunmakariyer.com/ilanlar/ilanDetay/699816ea3364c86ed92438a4#:~:text=Ba%C5%9Fvuru%20%C5%9Fartlar%C4%B1na%20uygun%20adaylar%20%C3%A7evrimi%C3%A7i,g%C3%BCn%20sonuna%20kadar%20kabul%20edilecektir.
+10. Savunma Sanayi İş ve Staj İlanları - Savunma Kariyer, erişim tarihi Mart 12, 2026, https://savunmakariyer.com/ilanlar/ilanDetay/699816ea3364c86ed92438a4
+11. Savunma Sanayiinde 3 Büyüklerin Staj Başvuruları Başladıı! Kaçırmayın! | Yazılım Mühendisliği - Karadeniz Teknik Üniversitesi, erişim tarihi Mart 12, 2026, https://dents.ktu.edu.tr/yazilim/duyuru/savunma-sanayiinde-3-buyuklerin-staj-basvurulari-basladii-kacirmayin
+12. 2026 havelsan hit yaz staj programı - Savunma Kariyer | Savunma Sanayi İş ve Staj İlanları, erişim tarihi Mart 12, 2026, https://savunmakariyer.com/ilanlar/ilanDetay/699c569ec06bde27edc71bca
+13. HAVELSAN SUİT 2025–2026 Başvuruları Açıldı - Ankara Üniversitesi Mühendislik Fakültesi, erişim tarihi Mart 12, 2026, https://sw.eng.ankara.edu.tr/2025/09/12/havelsan-suit-2025-2026-basvurulari-acildi/
+14. STM'de Yıldızların Yolculuğu Başlıyor! - Savunma Kariyer | Savunma Sanayi İş ve Staj İlanları, erişim tarihi Mart 12, 2026, https://savunmakariyer.com/ilanlar/ilanDetay/699ee97f17cf1f7504790f43
+15. Açık Pozisyonlarımız - Türk Havacılık ve Uzay Sanayii - TUSAŞ, erişim tarihi Mart 12, 2026, https://kariyer.tusas.com/acik-pozisyonlarimiz
+16. Savunma Sanayi İş ve Staj İlanları - Savunma Kariyer, erişim tarihi Mart 12, 2026, https://savunmakariyer.com/ilanlar/ilanDetay/699c19d2c06bde27edc6cdec
+17. KAPSÜL Savunma Teknolojileri Tanıtımı - Savunma Kariyer | Savunma Sanayi İş ve Staj İlanları, erişim tarihi Mart 12, 2026, https://savunmakariyer.com/ilanlar/ilanDetay/69774b977738b9731bab1492
+18. Staj - Baykar Kariyer, erişim tarihi Mart 12, 2026, https://kariyer.baykartech.com/tr/staj/
+19. Internship - Baykar Career, erişim tarihi Mart 12, 2026, https://kariyer.baykartech.com/en/internship/
+20. Turkish Technic Staj Programı 2026 Başvuruları Devam Ediyor, erişim tarihi Mart 12, 2026, https://aybu.edu.tr/oidb/en/haber/22186/Turkish-Technic-Staj-Program%C4%B1-2026-Ba%C5%9Fvurular%C4%B1-Devam-Ediyor
+21. Cumhurbaşkanlığı Savunma Sanayi Başkanlığı "Vizyoner Genç KÖK Projesi" Başvuruları Devam Ediyor. | Ankara Yıldırım Beyazıt Üniversitesi, erişim tarihi Mart 12, 2026, https://aybu.edu.tr/aybu/tr/duyuru/15847
+22. Firma Arşiv | OSTİM Savunma ve Havacılık Kümelenmesi, erişim tarihi Mart 12, 2026, https://www.ostimsavunma.org/firma-arsiv
+23. EHSİM Gelecek Sensin Yaz Staj Programı - Savunma Kariyer | Savunma Sanayi İş ve Staj İlanları, erişim tarihi Mart 12, 2026, https://savunmakariyer.com/ilanlar/ilanDetay/69a5892e0fda4c73ff4076dc

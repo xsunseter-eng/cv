@@ -1,0 +1,127 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.7/schema.json
+
+cv:
+  name: Umut Solmaz
+  location: Ankara, Türkiye
+  email: umut.solmaz@metu.edu.tr
+  phone: "+90 537 626 2045"
+  social_networks:
+    - network: LinkedIn
+      username: umutsolmaz
+    - network: GitHub
+      username: umutsolmaz
+  sections:
+    ozet:
+      - ODTÜ Havacılık ve Uzay Mühendisliği öğrencisi. Bilgisayar ve fiziğe tutkulu, gömülü sistemler, programlama ve takım yönetimi konularında deneyimli. 2026 Yaz dönemi için havacılık ve savunma sanayiinde staj fırsatları aramaktadır.
+    egitim:
+      - institution: Orta Doğu Teknik Üniversitesi (ODTÜ)
+        area: Havacılık ve Uzay Mühendisliği
+        degree: Lisans
+        start_date: 2022-09
+        end_date: 2026-06
+        highlights:
+          - 13 kredi değerinde üstten ders tamamlandı.
+          - NTA Çince (HSK2) seçmeli dersleri alındı.
+          - İngilizce hazırlık sınıfı sınavla atlandı.
+      - institution: Hatay Tosçelik Fen Lisesi
+        area: Fen Bilimleri
+        degree: Lise Diploması
+        start_date: 2018-09
+        end_date: 2022-06
+    deneyim:
+      - company: Romer RLC Lab
+        position: Laboratuvar Üyesi
+        start_date: 2025-11
+        end_date: present
+        location: Ankara, Türkiye
+        highlights:
+          - Laboratuvar bünyesindeki araştırma ve geliştirme projelerine katkı sağlanıyor.
+      - company: Metuor Uzay Takımı
+        position: Yönetim Kurulu Üyesi / Elektronik ve Yer İstasyonu Üyesi
+        start_date: 2022-09
+        end_date: 2024-06
+        location: Ankara, Türkiye
+        highlights:
+          - Uluslararası yarışmalara katılan takımın üyesi.
+          - Uzay projeleri için elektronik ve yer istasyonu sistemleri geliştirildi.
+          - Şu anda Cubesat geliştirme süreçlerinde görev alınıyor.
+    projeler:
+      - name: Cubesat Geliştirme
+        start_date: 2024
+        end_date: present
+        highlights:
+          - Metuor takımı ile Cubesat sistem tasarımı ve geliştirme çalışmaları yürütülüyor.
+      - name: Teknofest Çip Tasarım Yarışması
+        date: 2025
+        highlights:
+          - Tümleşik devre tasarım prensipleri üzerine odaklanılan yarışmaya katılım sağlandı.
+      - name: CanSat Competition
+        date: 2023
+        highlights:
+          - CanSat Yarışması'nda **Dünya 2.liği** elde edildi.
+      - name: Teknofest Roket Yarışması
+        date: 2023
+        highlights:
+          - Roket Yarışması'nda finalist olundu.
+      - name: SpacePort America Cup
+        date: 2023
+        highlights:
+          - Fırlatma kampanyasına başarıyla katılım sağlandı.
+    teknik_beceriler:
+      - label: Programlama
+        details: C++, Python, Java, JavaScript, C, Matlab, C#, C++
+      - label: Mühendislik Yazılımları
+        details: Ansys, Siemens NX, Solidworks, Matlab
+      - label: Uzmanlık Alanları
+        details: STM32 Programlama, Makine Öğrenmesi, Devre Tasarımı, Mühendislik Simülasyonları, Gömülü Sistemler
+      - label: Diller
+        details: Türkçe (Anadil/C2), İngilizce (C2), Çince (HSK2/A1)
+    ilgi_alanlari:
+      - Yamaç Paraşütü, Kitesurf, Yemek Yapmak, Felsefe
+
+design:
+  theme: engineeringresumes
+  colors:
+    name: rgb(0, 48, 73)
+    connections: rgb(0, 48, 73)
+    section_titles: rgb(0, 48, 73)
+    links: rgb(0, 48, 73)
+  typography:
+    font_family:
+      body: Latin Modern Serif
+      name: Latin Modern Serif
+    font_size:
+      body: 10pt
+      name: 25pt
+    line_spacing: 0.5em
+
+locale:
+  language: turkish
+
+settings:
+  bold_keywords:
+    - C++
+    - Python
+    - Java
+    - JavaScript
+    - C#
+    - Matlab
+    - Ansys
+    - Siemens NX
+    - Solidworks
+    - STM32
+    - Makine Öğrenmesi
+    - Devre Tasarımı
+    - Gömülü Sistemler
+    - CanSat
+    - Teknofest
+    - Havacılık ve Uzay Mühendisliği
+    - ODTÜ
+    - Cubesat
+    - Dünya 2.liği
+  render_command:
+    pdf_path: rendercv_output/Umut_Solmaz_CV_TR.pdf
+    typst_path: rendercv_output/Umut_Solmaz_CV_TR.typ
+    markdown_path: rendercv_output/Umut_Solmaz_CV_TR.md
+    html_path: rendercv_output/Umut_Solmaz_CV_TR.html
+    png_path: rendercv_output/Umut_Solmaz_CV_TR.png

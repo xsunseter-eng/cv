@@ -1,0 +1,118 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.7/schema.json
+
+cv:
+  name: Umut Solmaz
+  location: Ankara, Turkey
+  email: umut.solmaz@metu.edu.tr
+  phone: "+90 537 626 2045"
+  social_networks:
+    - network: LinkedIn
+      username: umutsolmaz
+    - network: GitHub
+      username: umutsolmaz
+  sections:
+    summary:
+      - Aerospace Engineering student at METU with a strong passion for computers and physics. Experienced in embedded systems, programming, and team management. Actively seeking internship opportunities in the aerospace and defense industry for Summer 2026.
+    education:
+      - institution: Middle East Technical University (METU)
+        area: Aerospace Engineering
+        degree: Bachelor of Science
+        start_date: 2022-09
+        end_date: 2026-06
+        highlights:
+          - Completed 13 credits of upper-level coursework ahead of schedule.
+          - Studying Chinese (HSK2/NTA) as an elective.
+          - Skipped the English preparatory school by examination.
+      - institution: Hatay Tosçelik Science High School
+        area: Science
+        degree: High School Diploma
+        start_date: 2018-09
+        end_date: 2022-06
+    experience:
+      - company: Romer RLC Lab
+        position: Lab Member
+        start_date: 2025-11
+        end_date: present
+        location: Ankara, Turkey
+        highlights:
+          - Contributing to research and development projects within the lab.
+      - company: Metuor Space Team
+        position: Board Member / Electronics & Ground Station Member
+        start_date: 2022-09
+        end_date: 2024-06
+        location: Ankara, Turkey
+        highlights:
+          - Member of the team participating in international competitions.
+          - Developed electronics and ground station systems for space projects.
+          - Currently working on Cubesat development.
+    projects:
+      - name: Cubesat Development
+        start_date: 2024
+        end_date: present
+        highlights:
+          - Working on Cubesat systems design and development with the Metuor team.
+      - name: Teknofest Chip Design Competition
+        date: 2025
+        highlights:
+          - Participated in the chip design competition, focusing on integrated circuit design principles.
+      - name: CanSat Competition
+        date: 2023
+        highlights:
+          - Achieved **2nd Place Worldwide** in the CanSat Competition.
+      - name: Teknofest Rocket Competition
+        date: 2023
+        highlights:
+          - Finalist in the Rocket Competition.
+      - name: SpacePort America Cup
+        date: 2023
+        highlights:
+          - Successfully participated in the launch campaign.
+    skills:
+      - label: Programming
+        details: C++, Python, Java, JavaScript, C, Matlab, C#, C++
+      - label: Engineering Software
+        details: Ansys, Siemens NX, Solidworks, Matlab
+      - label: Specialized Skills
+        details: STM32 Programming, Machine Learning, Circuit Design, Engineering Simulations, Embedded Systems
+      - label: Languages
+        details: Turkish (Native/C2), English (C2), Chinese (HSK2/A1)
+    interests:
+      - Paragliding, Kitesurfing, Cooking, Philosophy
+
+design:
+  theme: engineeringresumes
+  colors:
+    name: rgb(0, 48, 73)
+    connections: rgb(0, 48, 73)
+    section_titles: rgb(0, 48, 73)
+    links: rgb(0, 48, 73)
+  typography:
+    font_family:
+      body: Latin Modern Serif
+      name: Latin Modern Serif
+    font_size:
+      body: 10pt
+      name: 25pt
+    line_spacing: 0.5em
+
+settings:
+  bold_keywords:
+    - C++
+    - Python
+    - Java
+    - JavaScript
+    - C#
+    - Matlab
+    - Ansys
+    - Siemens NX
+    - Solidworks
+    - STM32
+    - Machine Learning
+    - Circuit Design
+    - Embedded Systems
+    - CanSat
+    - Teknofest
+    - Aerospace Engineering
+    - METU
+    - Cubesat
+    - 2nd Place Worldwide

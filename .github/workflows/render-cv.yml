@@ -1,0 +1,47 @@
+name: Render CV
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "**.yaml"
+      - ".github/workflows/render-cv.yml"
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Dependencies
+        run: pip install "rendercv[full]" pypdf
+
+      - name: Render English CV
+        run: rendercv render Umut_Solmaz_CV.yaml
+
+      - name: Render Turkish CV
+        run: rendercv render Umut_Solmaz_CV_TR.yaml
+
+      - name: Inject Metadata
+        run: python inject_metadata.py
+
+      - name: Upload PDF Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: CV-PDFs
+          path: rendercv_output/*.pdf
+
+      - name: Push to Repo (Optional but recommended for the README links to work)
+        if: github.ref == 'refs/heads/main'
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add rendercv_output/
+          git commit -m "chore: update rendered CVs [skip ci]" || echo "No changes to commit"
+          git push
