@@ -17,7 +17,7 @@ Professional, ATS-friendly CV of Umut Solmaz, Aerospace Engineering student at M
 - **Cubesat Development:** Ongoing with Metuor Space Team
 
 ## 📬 Contact
-- [LinkedIn](https://linkedin.com/in/umutsolmaz)
+- [LinkedIn](https://linkedin.com/in/umut-solmaz-73b798249)
 - [Email](mailto:umut.solmaz@metu.edu.tr)
 
 ---

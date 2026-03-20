@@ -3,7 +3,7 @@
 - Phone: +90 537 626 20 45
 - Email: [umut.solmaz@metu.edu.tr](mailto:umut.solmaz@metu.edu.tr)
 - Location: Ankara, Turkey
-- LinkedIn: [umutsolmaz](https://linkedin.com/in/umutsolmaz)
+- LinkedIn: [umut-solmaz-73b798249](https://linkedin.com/in/umut-solmaz-73b798249)
 - GitHub: [umutsolmaz](https://github.com/umutsolmaz)
 
 
