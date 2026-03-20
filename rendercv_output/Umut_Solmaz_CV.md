@@ -7,7 +7,7 @@
 
 
 # Summary
-**Aerospace Engineering** student at **METU** with a strong passion for computers and physics. Experienced in ****Aerodynamics**, **CFD**, and **Space Systems****. Highly skilled in ****Embedded Systems****, programming, and team management. Actively seeking internship opportunities at leading aerospace and defense firms such as ****TEI**, **ASELSAN**, **ROKETSAN**, and **TUSAŞ**** for Summer 2026.
+**4th year **Aerospace Engineering** student** at **METU** with a strong passion for computers and physics. Experienced in ****Aerodynamics**, **CFD**, and **Space Systems****. Highly skilled in ****Embedded Systems****, programming, and team management. Actively seeking internship opportunities at leading aerospace and defense firms such as ****TEI**, **ASELSAN**, **ROKETSAN**, and **TUSAŞ**** for Summer 2026.
 
 # Education
 ## **Middle East Technical University (**METU**)**, Bachelor of Science in **Aerospace Engineering**Sept 2022 – June 2026
@@ -46,7 +46,7 @@ Sept 2022 – June 2024
 # Projects
 ## ****Cubesat** Development**
 
-2024 – present
+2024 – Oct 2025
 
 - Working on **Cubesat** systems design and development with the Metuor team.
 

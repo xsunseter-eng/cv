@@ -7,7 +7,7 @@
 
 
 # Ozet
-**ODTÜ** **Havacılık ve Uzay Mühendisliği** öğrencisi. ****Aerodinamik**, **CFD** ve **Uzay Sistemleri**** konularına ilgili; gömülü sistemler, programlama ve takım yönetimi konularında deneyimli. ****TEI**, **ASELSAN**, **ROKETSAN** ve **TUSAŞ**** gibi savunma sanayii devlerinde 2026 Yaz dönemi için staj fırsatları aramaktadır.
+**4. sınıf **ODTÜ** **Havacılık ve Uzay Mühendisliği** öğrencisi**. ****Aerodinamik**, **CFD** ve **Uzay Sistemleri**** konularına ilgili; gömülü sistemler, programlama ve takım yönetimi konularında deneyimli. ****TEI**, **ASELSAN**, **ROKETSAN** ve **TUSAŞ**** gibi savunma sanayii devlerinde 2026 Yaz dönemi için staj fırsatları aramaktadır.
 
 # Egitim
 ## **Orta Doğu Teknik Üniversitesi (**ODTÜ**)**, **Havacılık ve Uzay Mühendisliği**, LisansEyl 2022 – Haz 2026
@@ -54,7 +54,7 @@ Eyl 2022 – Haz 2024
 # Projeler
 ## ****Cubesat** Geliştirme**
 
-2024 – halen
+2024 – Eki 2025
 
 - Metuor takımı ile **Cubesat** sistem tasarımı ve geliştirme çalışmaları yürütülüyor.
 

@@ -10,7 +10,7 @@ cv:
       username: umut-solmaz-73b798249
   sections:
     ozet:
-      - ODTÜ Havacılık ve Uzay Mühendisliği öğrencisi. **Aerodinamik, CFD ve Uzay Sistemleri** konularına ilgili; gömülü sistemler, programlama ve takım yönetimi konularında deneyimli. **TEI, ASELSAN, ROKETSAN ve TUSAŞ** gibi savunma sanayii devlerinde 2026 Yaz dönemi için staj fırsatları aramaktadır.
+      - **4. sınıf ODTÜ Havacılık ve Uzay Mühendisliği öğrencisi**. **Aerodinamik, CFD ve Uzay Sistemleri** konularına ilgili; gömülü sistemler, programlama ve takım yönetimi konularında deneyimli. **TEI, ASELSAN, ROKETSAN ve TUSAŞ** gibi savunma sanayii devlerinde 2026 Yaz dönemi için staj fırsatları aramaktadır.
     egitim:
       - institution: Orta Doğu Teknik Üniversitesi (ODTÜ)
         area: Havacılık ve Uzay Mühendisliği
@@ -50,7 +50,7 @@ cv:
     projeler:
       - name: Cubesat Geliştirme
         start_date: 2024
-        end_date: present
+        end_date: 2025-10
         highlights:
           - Metuor takımı ile Cubesat sistem tasarımı ve geliştirme çalışmaları yürütülüyor.
       - name: Teknofest Çip Tasarım Yarışması

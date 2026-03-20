@@ -10,7 +10,7 @@ cv:
       username: umut-solmaz-73b798249
   sections:
     summary:
-      - Aerospace Engineering student at METU with a strong passion for computers and physics. Experienced in **Aerodynamics, CFD, and Space Systems**. Highly skilled in **Embedded Systems**, programming, and team management. Actively seeking internship opportunities at leading aerospace and defense firms such as **TEI, ASELSAN, ROKETSAN, and TUSAŞ** for Summer 2026.
+      - **4th year Aerospace Engineering student** at METU with a strong passion for computers and physics. Experienced in **Aerodynamics, CFD, and Space Systems**. Highly skilled in **Embedded Systems**, programming, and team management. Actively seeking internship opportunities at leading aerospace and defense firms such as **TEI, ASELSAN, ROKETSAN, and TUSAŞ** for Summer 2026.
     education:
       - institution: Middle East Technical University (METU)
         area: Aerospace Engineering
@@ -45,7 +45,7 @@ cv:
     projects:
       - name: Cubesat Development
         start_date: 2024
-        end_date: present
+        end_date: 2025-10
         highlights:
           - Working on Cubesat systems design and development with the Metuor team.
       - name: Teknofest Chip Design Competition

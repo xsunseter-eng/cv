@@ -98,7 +98,7 @@
 
 == Summary
 
-#strong[Aerospace Engineering] student at #strong[METU] with a strong passion for computers and physics. Experienced in #strong[#emph[#sym.ast.basic#h(0pt, weak: true) Aerodynamics]#sym.ast.basic#h(0pt, weak: true) , ]CFD#strong[, and ]Space Systems#strong[#emph[#sym.ast.basic#h(0pt, weak: true) . Highly skilled in ]]#emph[Embedded Systems]#strong[#emph[, programming, and team management. Actively seeking internship opportunities at leading aerospace and defense firms such as ]]#emph[TEI]#emph[, ]#emph[ASELSAN]#emph[, ]#emph[ROKETSAN]#emph[, and ]#emph[TUSAŞ]#sym.ast.basic#h(0pt, weak: true) #sym.ast.basic#h(0pt, weak: true) #sym.ast.basic for Summer 2026.
+#strong[4th year ]Aerospace Engineering#strong[ student] at #strong[METU] with a strong passion for computers and physics. Experienced in #strong[#emph[#sym.ast.basic#h(0pt, weak: true) Aerodynamics]#sym.ast.basic#h(0pt, weak: true) , ]CFD#strong[, and ]Space Systems#strong[#emph[#sym.ast.basic#h(0pt, weak: true) . Highly skilled in ]]#emph[Embedded Systems]#strong[#emph[, programming, and team management. Actively seeking internship opportunities at leading aerospace and defense firms such as ]]#emph[TEI]#emph[, ]#emph[ASELSAN]#emph[, ]#emph[ROKETSAN]#emph[, and ]#emph[TUSAŞ]#sym.ast.basic#h(0pt, weak: true) #sym.ast.basic#h(0pt, weak: true) #sym.ast.basic for Summer 2026.
 
 == Education
 
@@ -176,7 +176,7 @@
 
   ],
   [
-    2024 – present
+    2024 – Oct 2025
 
   ],
   main-column-second-row: [
