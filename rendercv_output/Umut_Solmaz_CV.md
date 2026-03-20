@@ -39,11 +39,7 @@ Nov 2025 – present
 
 Sept 2022 – June 2024
 
-- Member of the team participating in international competitions.
-
-- Developed electronics and ground station systems for space projects.
-
-- Currently working on **Cubesat** development.
+- Member of the Metuor Space Team.
 
 
 

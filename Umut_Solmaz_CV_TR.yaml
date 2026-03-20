@@ -35,15 +35,18 @@ cv:
         location: Ankara, Türkiye
         highlights:
           - Laboratuvar bünyesindeki araştırma ve geliştirme projelerine katkı sağlanıyor.
-      - company: Metuor Uzay Takımı
+      - company: Metuor Space Team
         position: Yönetim Kurulu Üyesi / Elektronik ve Yer İstasyonu Üyesi
         start_date: 2022-09
         end_date: 2024-06
         location: Ankara, Türkiye
         highlights:
-          - Uluslararası yarışmalara katılan takımın üyesi.
-          - Uzay projeleri için elektronik ve yer istasyonu sistemleri geliştirildi.
-          - Şu anda Cubesat geliştirme süreçlerinde görev alınıyor.
+          - Takıma Elektronik ve Yer istasyonları alt takımı üyesi olarak giriş yaptı.
+          - Takım CanSat yarışmasında dünya 2.si olduktan sonra yönetim kuruluna seçildi.
+          - Bulunduğu alt takımlara Mekanik takımını da ekleyerek disiplinlerarası yetkinlik kazandı.
+          - Takımın finans ve tanıtım görevlerinde aktif rol alarak kurumsal ilişkileri yönetti.
+          - CanSat ve Cubesat tasarımlarında kritik sistemlerin geliştirilmesinde büyük sorumluluklar üstlendi.
+
     projeler:
       - name: Cubesat Geliştirme
         start_date: 2024

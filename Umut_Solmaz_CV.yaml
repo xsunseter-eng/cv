@@ -41,9 +41,7 @@ cv:
         end_date: 2024-06
         location: Ankara, Turkey
         highlights:
-          - Member of the team participating in international competitions.
-          - Developed electronics and ground station systems for space projects.
-          - Currently working on Cubesat development.
+          - Member of the Metuor Space Team.
     projects:
       - name: Cubesat Development
         start_date: 2024

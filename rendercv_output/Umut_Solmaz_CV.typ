@@ -163,11 +163,7 @@
 
   ],
   main-column-second-row: [
-    - Member of the team participating in international competitions.
-
-    - Developed electronics and ground station systems for space projects.
-
-    - Currently working on #strong[Cubesat] development.
+    - Member of the Metuor Space Team.
 
   ],
 )

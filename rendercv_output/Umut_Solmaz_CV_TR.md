@@ -35,15 +35,19 @@ Kas 2025 – halen
 
 
 
-## **Yönetim Kurulu Üyesi / Elektronik ve Yer İstasyonu Üyesi**, Metuor Uzay Takımı -- Ankara, Türkiye
+## **Yönetim Kurulu Üyesi / Elektronik ve Yer İstasyonu Üyesi**, Metuor Space Team -- Ankara, Türkiye
 
 Eyl 2022 – Haz 2024
 
-- Uluslararası yarışmalara katılan takımın üyesi.
+- Takıma Elektronik ve Yer istasyonları alt takımı üyesi olarak giriş yaptı.
 
-- Uzay projeleri için elektronik ve yer istasyonu sistemleri geliştirildi.
+- Takım **CanSat** yarışmasında dünya 2.si olduktan sonra yönetim kuruluna seçildi.
 
-- Şu anda **Cubesat** geliştirme süreçlerinde görev alınıyor.
+- Bulunduğu alt takımlara Mekanik takımını da ekleyerek disiplinlerarası yetkinlik kazandı.
+
+- Takımın finans ve tanıtım görevlerinde aktif rol alarak kurumsal ilişkileri yönetti.
+
+- **CanSat** ve **Cubesat** tasarımlarında kritik sistemlerin geliştirilmesinde büyük sorumluluklar üstlendi.
 
 
 
