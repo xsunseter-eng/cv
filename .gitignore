@@ -1,3 +1,4 @@
+github_creds.txt
 .venv/
 __pycache__/
 *.pyc
