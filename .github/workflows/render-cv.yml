@@ -37,11 +37,14 @@ jobs:
           name: CV-PDFs
           path: rendercv_output/*.pdf
 
+      - name: Copy HTML to index.html
+        run: cp rendercv_output/Umut_Solmaz_CV.html index.html
+
       - name: Push to Repo (Optional but recommended for the README links to work)
         if: github.ref == 'refs/heads/main'
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add rendercv_output/
-          git commit -m "chore: update rendered CVs [skip ci]" || echo "No changes to commit"
+          git add rendercv_output/ index.html
+          git commit -m "chore: update rendered CVs and webpage [skip ci]" || echo "No changes to commit"
           git push

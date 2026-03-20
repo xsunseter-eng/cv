@@ -112,8 +112,6 @@
 
   ],
   main-column-second-row: [
-    - GNO: \[GPA Giriniz\]\/4.00
-
     - 13 kredi değerinde üstten ders tamamlandı.
 
     - NTA Çince (HSK2) seçmeli dersleri alındı.

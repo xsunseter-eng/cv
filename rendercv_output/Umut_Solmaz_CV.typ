@@ -112,8 +112,6 @@
 
   ],
   main-column-second-row: [
-    - GPA: \[Enter Your GPA\]\/4.00
-
     - Completed 13 credits of upper-level coursework ahead of schedule.
 
     - Studying Chinese (HSK2\/NTA) as an elective.

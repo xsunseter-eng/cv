@@ -10,7 +10,7 @@ cv:
       username: umut-solmaz-73b798249
   sections:
     ozet:
-      - **4. sınıf ODTÜ Havacılık ve Uzay Mühendisliği öğrencisi**. **Aerodinamik, CFD ve Uzay Sistemleri** konularına ilgili; gömülü sistemler, programlama ve takım yönetimi konularında deneyimli. **TEI, ASELSAN, ROKETSAN ve TUSAŞ** gibi savunma sanayii devlerinde 2026 Yaz dönemi için staj fırsatları aramaktadır.
+      - **4\. sınıf ODTÜ Havacılık ve Uzay Mühendisliği öğrencisi**. **Aerodinamik, CFD ve Uzay Sistemleri** konularına ilgili; gömülü sistemler, programlama ve takım yönetimi konularında deneyimli. **TEI, ASELSAN, ROKETSAN ve TUSAŞ** gibi savunma sanayii devlerinde 2026 Yaz dönemi için staj fırsatları aramaktadır.
     egitim:
       - institution: Orta Doğu Teknik Üniversitesi (ODTÜ)
         area: Havacılık ve Uzay Mühendisliği
@@ -18,7 +18,6 @@ cv:
         start_date: 2022-09
         end_date: 2026-06
         highlights:
-          - "GNO: [GPA Giriniz]/4.00"
           - 13 kredi değerinde üstten ders tamamlandı.
           - NTA Çince (HSK2) seçmeli dersleri alındı.
           - İngilizce hazırlık sınıfı sınavla atlandı.
