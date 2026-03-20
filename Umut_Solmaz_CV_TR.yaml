@@ -10,7 +10,7 @@ cv:
       username: umut-solmaz-73b798249
   sections:
     ozet:
-      - ODTÜ Havacılık ve Uzay Mühendisliği öğrencisi. Bilgisayar ve fiziğe tutkulu, gömülü sistemler, programlama ve takım yönetimi konularında deneyimli. 2026 Yaz dönemi için havacılık ve savunma sanayiinde staj fırsatları aramaktadır.
+      - ODTÜ Havacılık ve Uzay Mühendisliği öğrencisi. **Aerodinamik, CFD ve Uzay Sistemleri** konularına ilgili; gömülü sistemler, programlama ve takım yönetimi konularında deneyimli. **TEI, ASELSAN, ROKETSAN ve TUSAŞ** gibi savunma sanayii devlerinde 2026 Yaz dönemi için staj fırsatları aramaktadır.
     egitim:
       - institution: Orta Doğu Teknik Üniversitesi (ODTÜ)
         area: Havacılık ve Uzay Mühendisliği
@@ -18,6 +18,7 @@ cv:
         start_date: 2022-09
         end_date: 2026-06
         highlights:
+          - "GNO: [GPA Giriniz]/4.00"
           - 13 kredi değerinde üstten ders tamamlandı.
           - NTA Çince (HSK2) seçmeli dersleri alındı.
           - İngilizce hazırlık sınıfı sınavla atlandı.
@@ -69,9 +70,9 @@ cv:
       - label: Programlama
         details: C++, Python, Java, JavaScript, C, Matlab, C#, C++
       - label: Mühendislik Yazılımları
-        details: Ansys, Siemens NX, Solidworks, Matlab
+        details: Ansys, Siemens NX, Solidworks, Matlab, **CAD/CAM/CAE**
       - label: Uzmanlık Alanları
-        details: STM32 Programlama, Makine Öğrenmesi, Devre Tasarımı, Mühendislik Simülasyonları, Gömülü Sistemler
+        details: STM32 Programlama, Makine Öğrenmesi, Devre Tasarımı, Mühendislik Simülasyonları, **Gömülü Sistemler (Embedded Systems), Aerodinamik, CFD, Roket Teknolojileri (Rocketry), Uzay Sistemleri**
       - label: Diller
         details: Türkçe (Anadil/C2), İngilizce (C2), Çince (HSK2/A1)
     ilgi_alanlari:
@@ -117,6 +118,16 @@ settings:
     - ODTÜ
     - Cubesat
     - Dünya 2.liği
+    - Aerodinamik
+    - CFD
+    - Uzay Sistemleri
+    - Rocketry
+    - Embedded Systems
+    - CAD/CAM/CAE
+    - TEI
+    - ASELSAN
+    - ROKETSAN
+    - TUSAŞ
   render_command:
     pdf_path: rendercv_output/Umut_Solmaz_CV_TR.pdf
     typst_path: rendercv_output/Umut_Solmaz_CV_TR.typ

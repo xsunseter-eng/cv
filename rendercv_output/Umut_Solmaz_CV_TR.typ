@@ -98,7 +98,7 @@
 
 == Ozet
 
-#strong[ODTÜ] #strong[Havacılık ve Uzay Mühendisliği] öğrencisi. Bilgisayar ve fiziğe tutkulu, gömülü sistemler, programlama ve takım yönetimi konularında deneyimli. 2026 Yaz dönemi için havacılık ve savunma sanayiinde staj fırsatları aramaktadır.
+#strong[ODTÜ] #strong[Havacılık ve Uzay Mühendisliği] öğrencisi. #strong[#emph[#sym.ast.basic#h(0pt, weak: true) Aerodinamik]#sym.ast.basic#h(0pt, weak: true) , ]CFD#strong[ ve ]Uzay Sistemleri#strong[#emph[#sym.ast.basic konularına ilgili; gömülü sistemler, programlama ve takım yönetimi konularında deneyimli. ]]#emph[TEI]#emph[, ]#emph[ASELSAN]#emph[, ]#emph[ROKETSAN]#emph[ ve ]#emph[TUSAŞ]#sym.ast.basic#h(0pt, weak: true) #sym.ast.basic#h(0pt, weak: true) #sym.ast.basic gibi savunma sanayii devlerinde 2026 Yaz dönemi için staj fırsatları aramaktadır.
 
 == Egitim
 
@@ -112,6 +112,8 @@
 
   ],
   main-column-second-row: [
+    - GNO: \[GPA Giriniz\]\/4.00
+
     - 13 kredi değerinde üstten ders tamamlandı.
 
     - NTA Çince (HSK2) seçmeli dersleri alındı.
@@ -251,9 +253,9 @@
 
 #strong[Programlama:] C++, #strong[Python], #strong[Java], #strong[JavaScript], C, #strong[Matlab], C\#, C++
 
-#strong[Mühendislik Yazılımları:] #strong[Ansys], #strong[Siemens NX], #strong[Solidworks], #strong[Matlab]
+#strong[Mühendislik Yazılımları:] #strong[Ansys], #strong[Siemens NX], #strong[Solidworks], #strong[Matlab], #strong[#emph[#sym.ast.basic#h(0pt, weak: true) CAD\/CAM\/CAE]]#sym.ast.basic#h(0pt, weak: true)
 
-#strong[Uzmanlık Alanları:] #strong[STM32] Programlama, #strong[Makine Öğrenmesi], #strong[Devre Tasarımı], Mühendislik Simülasyonları, #strong[Gömülü Sistemler]
+#strong[Uzmanlık Alanları:] #strong[STM32] Programlama, #strong[Makine Öğrenmesi], #strong[Devre Tasarımı], Mühendislik Simülasyonları, #strong[#emph[#sym.ast.basic#h(0pt, weak: true) Gömülü Sistemler]#sym.ast.basic (]Embedded Systems#strong[), ]Aerodinamik#strong[, ]CFD#strong[, Roket Teknolojileri (]Rocketry#strong[), ]Uzay Sistemleri#sym.ast.basic#h(0pt, weak: true) #sym.ast.basic#h(0pt, weak: true) #sym.ast.basic#h(0pt, weak: true) #sym.ast.basic#h(0pt, weak: true)
 
 #strong[Diller:] Türkçe (Anadil\/C2), İngilizce (C2), Çince (HSK2\/A1)
 

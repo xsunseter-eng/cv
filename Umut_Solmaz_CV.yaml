@@ -10,7 +10,7 @@ cv:
       username: umut-solmaz-73b798249
   sections:
     summary:
-      - Aerospace Engineering student at METU with a strong passion for computers and physics. Experienced in embedded systems, programming, and team management. Actively seeking internship opportunities in the aerospace and defense industry for Summer 2026.
+      - Aerospace Engineering student at METU with a strong passion for computers and physics. Experienced in **Aerodynamics, CFD, and Space Systems**. Highly skilled in **Embedded Systems**, programming, and team management. Actively seeking internship opportunities at leading aerospace and defense firms such as **TEI, ASELSAN, ROKETSAN, and TUSAŞ** for Summer 2026.
     education:
       - institution: Middle East Technical University (METU)
         area: Aerospace Engineering
@@ -18,6 +18,7 @@ cv:
         start_date: 2022-09
         end_date: 2026-06
         highlights:
+          - "GPA: [Enter Your GPA]/4.00"
           - Completed 13 credits of upper-level coursework ahead of schedule.
           - Studying Chinese (HSK2/NTA) as an elective.
           - Skipped the English preparatory school by examination.
@@ -69,9 +70,9 @@ cv:
       - label: Programming
         details: C++, Python, Java, JavaScript, C, Matlab, C#, C++
       - label: Engineering Software
-        details: Ansys, Siemens NX, Solidworks, Matlab
+        details: Ansys, Siemens NX, Solidworks, Matlab, **CAD/CAM/CAE**
       - label: Specialized Skills
-        details: STM32 Programming, Machine Learning, Circuit Design, Engineering Simulations, Embedded Systems
+        details: STM32 Programming, Machine Learning, Circuit Design, Engineering Simulations, **Embedded Systems, Aerodynamics, CFD, Rocketry, Space Systems**
       - label: Languages
         details: Turkish (Native/C2), English (C2), Chinese (HSK2/A1)
     interests:
@@ -114,3 +115,13 @@ settings:
     - METU
     - Cubesat
     - 2nd Place Worldwide
+    - Aerodynamics
+    - CFD
+    - Space Systems
+    - Rocketry
+    - Embedded Systems
+    - CAD/CAM/CAE
+    - TEI
+    - ASELSAN
+    - ROKETSAN
+    - TUSAŞ

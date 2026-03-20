@@ -7,10 +7,12 @@
 
 
 # Summary
-**Aerospace Engineering** student at **METU** with a strong passion for computers and physics. Experienced in embedded systems, programming, and team management. Actively seeking internship opportunities in the aerospace and defense industry for Summer 2026.
+**Aerospace Engineering** student at **METU** with a strong passion for computers and physics. Experienced in ****Aerodynamics**, **CFD**, and **Space Systems****. Highly skilled in ****Embedded Systems****, programming, and team management. Actively seeking internship opportunities at leading aerospace and defense firms such as ****TEI**, **ASELSAN**, **ROKETSAN**, and **TUSAŞ**** for Summer 2026.
 
 # Education
 ## **Middle East Technical University (**METU**)**, Bachelor of Science in **Aerospace Engineering**Sept 2022 – June 2026
+
+- GPA: [Enter Your GPA]/4.00
 
 - Completed 13 credits of upper-level coursework ahead of schedule.
 
@@ -89,9 +91,9 @@ Sept 2022 – June 2024
 # Skills
 **Programming:** C++, **Python**, **Java**, **JavaScript**, C, **Matlab**, C#, C++
 
-**Engineering Software:** **Ansys**, **Siemens NX**, **Solidworks**, **Matlab**
+**Engineering Software:** **Ansys**, **Siemens NX**, **Solidworks**, **Matlab**, ****CAD/CAM/CAE****
 
-**Specialized Skills:** **STM32** Programming, **Machine Learning**, **Circuit Design**, Engineering Simulations, **Embedded Systems**
+**Specialized Skills:** **STM32** Programming, **Machine Learning**, **Circuit Design**, Engineering Simulations, ****Embedded Systems**, **Aerodynamics**, **CFD**, **Rocketry**, **Space Systems****
 
 **Languages:** Turkish (Native/C2), English (C2), Chinese (HSK2/A1)
 

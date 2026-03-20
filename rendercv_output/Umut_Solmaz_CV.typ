@@ -98,7 +98,7 @@
 
 == Summary
 
-#strong[Aerospace Engineering] student at #strong[METU] with a strong passion for computers and physics. Experienced in embedded systems, programming, and team management. Actively seeking internship opportunities in the aerospace and defense industry for Summer 2026.
+#strong[Aerospace Engineering] student at #strong[METU] with a strong passion for computers and physics. Experienced in #strong[#emph[#sym.ast.basic#h(0pt, weak: true) Aerodynamics]#sym.ast.basic#h(0pt, weak: true) , ]CFD#strong[, and ]Space Systems#strong[#emph[#sym.ast.basic#h(0pt, weak: true) . Highly skilled in ]]#emph[Embedded Systems]#strong[#emph[, programming, and team management. Actively seeking internship opportunities at leading aerospace and defense firms such as ]]#emph[TEI]#emph[, ]#emph[ASELSAN]#emph[, ]#emph[ROKETSAN]#emph[, and ]#emph[TUSAŞ]#sym.ast.basic#h(0pt, weak: true) #sym.ast.basic#h(0pt, weak: true) #sym.ast.basic for Summer 2026.
 
 == Education
 
@@ -112,6 +112,8 @@
 
   ],
   main-column-second-row: [
+    - GPA: \[Enter Your GPA\]\/4.00
+
     - Completed 13 credits of upper-level coursework ahead of schedule.
 
     - Studying Chinese (HSK2\/NTA) as an elective.
@@ -251,9 +253,9 @@
 
 #strong[Programming:] C++, #strong[Python], #strong[Java], #strong[JavaScript], C, #strong[Matlab], C\#, C++
 
-#strong[Engineering Software:] #strong[Ansys], #strong[Siemens NX], #strong[Solidworks], #strong[Matlab]
+#strong[Engineering Software:] #strong[Ansys], #strong[Siemens NX], #strong[Solidworks], #strong[Matlab], #strong[#emph[#sym.ast.basic#h(0pt, weak: true) CAD\/CAM\/CAE]]#sym.ast.basic#h(0pt, weak: true)
 
-#strong[Specialized Skills:] #strong[STM32] Programming, #strong[Machine Learning], #strong[Circuit Design], Engineering Simulations, #strong[Embedded Systems]
+#strong[Specialized Skills:] #strong[STM32] Programming, #strong[Machine Learning], #strong[Circuit Design], Engineering Simulations, #strong[#emph[#sym.ast.basic#h(0pt, weak: true) Embedded Systems]#sym.ast.basic#h(0pt, weak: true) , ]Aerodynamics#strong[, ]CFD#strong[, ]Rocketry#strong[, ]Space Systems#sym.ast.basic#h(0pt, weak: true) #sym.ast.basic#h(0pt, weak: true) #sym.ast.basic#h(0pt, weak: true) #sym.ast.basic#h(0pt, weak: true)
 
 #strong[Languages:] Turkish (Native\/C2), English (C2), Chinese (HSK2\/A1)
 

@@ -7,10 +7,12 @@
 
 
 # Ozet
-**ODTÜ** **Havacılık ve Uzay Mühendisliği** öğrencisi. Bilgisayar ve fiziğe tutkulu, gömülü sistemler, programlama ve takım yönetimi konularında deneyimli. 2026 Yaz dönemi için havacılık ve savunma sanayiinde staj fırsatları aramaktadır.
+**ODTÜ** **Havacılık ve Uzay Mühendisliği** öğrencisi. ****Aerodinamik**, **CFD** ve **Uzay Sistemleri**** konularına ilgili; gömülü sistemler, programlama ve takım yönetimi konularında deneyimli. ****TEI**, **ASELSAN**, **ROKETSAN** ve **TUSAŞ**** gibi savunma sanayii devlerinde 2026 Yaz dönemi için staj fırsatları aramaktadır.
 
 # Egitim
 ## **Orta Doğu Teknik Üniversitesi (**ODTÜ**)**, **Havacılık ve Uzay Mühendisliği**, LisansEyl 2022 – Haz 2026
+
+- GNO: [GPA Giriniz]/4.00
 
 - 13 kredi değerinde üstten ders tamamlandı.
 
@@ -89,9 +91,9 @@ Eyl 2022 – Haz 2024
 # Teknik Beceriler
 **Programlama:** C++, **Python**, **Java**, **JavaScript**, C, **Matlab**, C#, C++
 
-**Mühendislik Yazılımları:** **Ansys**, **Siemens NX**, **Solidworks**, **Matlab**
+**Mühendislik Yazılımları:** **Ansys**, **Siemens NX**, **Solidworks**, **Matlab**, ****CAD/CAM/CAE****
 
-**Uzmanlık Alanları:** **STM32** Programlama, **Makine Öğrenmesi**, **Devre Tasarımı**, Mühendislik Simülasyonları, **Gömülü Sistemler**
+**Uzmanlık Alanları:** **STM32** Programlama, **Makine Öğrenmesi**, **Devre Tasarımı**, Mühendislik Simülasyonları, ****Gömülü Sistemler** (**Embedded Systems**), **Aerodinamik**, **CFD**, Roket Teknolojileri (**Rocketry**), **Uzay Sistemleri****
 
 **Diller:** Türkçe (Anadil/C2), İngilizce (C2), Çince (HSK2/A1)
 
