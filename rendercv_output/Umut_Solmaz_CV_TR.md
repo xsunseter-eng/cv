@@ -4,7 +4,6 @@
 - Email: [umut.solmaz@metu.edu.tr](mailto:umut.solmaz@metu.edu.tr)
 - Location: Ankara, Türkiye
 - LinkedIn: [umut-solmaz-73b798249](https://linkedin.com/in/umut-solmaz-73b798249)
-- GitHub: [umutsolmaz](https://github.com/umutsolmaz)
 
 
 # Ozet
