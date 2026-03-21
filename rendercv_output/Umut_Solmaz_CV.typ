@@ -143,6 +143,8 @@
 
   ],
   main-column-second-row: [
+    - Contributing to research and development projects within the lab.
+
   ],
 )
 
@@ -156,6 +158,10 @@
 
   ],
   main-column-second-row: [
+    - Developed critical electronics for #strong[CanSat] and #strong[Cubesat] projects.
+
+    - Elected to Board Member after #strong[2nd Place Worldwide]; managed finance and outreach.
+
   ],
 )
 
@@ -171,6 +177,8 @@
 
   ],
   main-column-second-row: [
+    - #strong[Cubesat] systems design and development with the Metuor team.
+
   ],
 )
 
@@ -184,6 +192,8 @@
 
   ],
   main-column-second-row: [
+    - Focus on integrated circuit design principles.
+
   ],
 )
 
@@ -197,6 +207,8 @@
 
   ],
   main-column-second-row: [
+    - Achieved #strong[#emph[#sym.ast.basic#h(0pt, weak: true) 2nd Place Worldwide]]#sym.ast.basic#h(0pt, weak: true) .
+
   ],
 )
 
@@ -210,6 +222,8 @@
 
   ],
   main-column-second-row: [
+    - Rocket Competition finalist and SpacePort America launch participant.
+
   ],
 )
 

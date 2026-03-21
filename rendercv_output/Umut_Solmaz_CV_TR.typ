@@ -143,6 +143,8 @@
 
   ],
   main-column-second-row: [
+    - Laboratuvar bünyesindeki Ar-Ge projelerine aktif katkı sağlanıyor.
+
   ],
 )
 
@@ -156,6 +158,10 @@
 
   ],
   main-column-second-row: [
+    - #strong[CanSat] ve #strong[Cubesat] tasarımlarında kritik elektronik sistemlerin geliştirilmesini üstlendi.
+
+    - #strong[Dünya 2.liği] sonrası yönetim kuruluna seçilerek finans ve tanıtım süreçlerini yönetti.
+
   ],
 )
 
@@ -171,6 +177,8 @@
 
   ],
   main-column-second-row: [
+    - #strong[Cubesat] sistem tasarımı ve kritik sistem geliştirme çalışmaları.
+
   ],
 )
 
@@ -184,6 +192,8 @@
 
   ],
   main-column-second-row: [
+    - Tümleşik devre tasarım prensipleri üzerine odaklanılan yarışma katılımı.
+
   ],
 )
 
@@ -197,6 +207,8 @@
 
   ],
   main-column-second-row: [
+    - #strong[CanSat] Yarışması'nda #strong[#emph[#sym.ast.basic#h(0pt, weak: true) Dünya 2.liği]]#sym.ast.basic elde edildi.
+
   ],
 )
 
@@ -210,6 +222,8 @@
 
   ],
   main-column-second-row: [
+    - Roket Yarışması finalisti ve SpacePort America fırlatma kampanyası katılımcısı.
+
   ],
 )
 
