@@ -81,7 +81,7 @@
   date: datetime(
     year: 2026,
     month: 3,
-    day: 21,
+    day: 22,
   ),
 )
 
@@ -144,8 +144,6 @@
 
   ],
   main-column-second-row: [
-    - Laboratuvar bünyesindeki araştırma ve geliştirme projelerine katkı sağlanıyor.
-
   ],
 )
 
@@ -159,10 +157,6 @@
 
   ],
   main-column-second-row: [
-    - #strong[CanSat] ve #strong[Cubesat] tasarımlarında kritik elektronik sistemlerin geliştirilmesini üstlendi.
-
-    - #strong[Dünya 2.liği] sonrası yönetim kuruluna seçilerek finans ve tanıtım süreçlerini yönetti.
-
   ],
 )
 
@@ -178,8 +172,6 @@
 
   ],
   main-column-second-row: [
-    - Metuor takımı ile #strong[Cubesat] sistem tasarımı ve geliştirme çalışmaları.
-
   ],
 )
 
@@ -193,8 +185,6 @@
 
   ],
   main-column-second-row: [
-    - Tümleşik devre tasarım prensipleri üzerine odaklanılan yarışma.
-
   ],
 )
 
@@ -208,8 +198,6 @@
 
   ],
   main-column-second-row: [
-    - #strong[CanSat] Yarışması'nda #strong[#emph[#sym.ast.basic#h(0pt, weak: true) Dünya 2.liği]]#sym.ast.basic elde edildi.
-
   ],
 )
 
@@ -223,8 +211,6 @@
 
   ],
   main-column-second-row: [
-    - Roket Yarışması finalisti ve SpacePort America fırlatma kampanyası katılımcısı.
-
   ],
 )
 

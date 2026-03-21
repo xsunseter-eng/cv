@@ -27,17 +27,11 @@
 
 Nov 2025 – present
 
-- Contributing to research and development projects within the lab.
-
 
 
 ## **Board Member / Electronics & Ground Station Member**, Metuor Space Team -- Ankara, Turkey
 
 Sept 2022 – June 2024
-
-- Developed critical electronics for **CanSat** and **Cubesat** projects.
-
-- Elected to Board Member after **2nd Place Worldwide**; managed finance and outreach.
 
 
 
@@ -46,15 +40,11 @@ Sept 2022 – June 2024
 
 2024 – Oct 2025
 
-- **Cubesat** systems design and development with the Metuor team.
-
 
 
 ## ****Teknofest** Chip Design Competition**
 
 2025
-
-- Integrated circuit design principles.
 
 
 
@@ -62,15 +52,11 @@ Sept 2022 – June 2024
 
 2023
 
-- Achieved ****2nd Place Worldwide****.
-
 
 
 ## ****Teknofest** Rocket / SpacePort America**
 
 2023
-
-- Rocket Competition finalist and SpacePort America launch campaign participant.
 
 
 

@@ -31,35 +31,22 @@ cv:
         start_date: 2025-11
         end_date: present
         location: Ankara, Türkiye
-        highlights:
-          - Laboratuvar bünyesindeki araştırma ve geliştirme projelerine katkı sağlanıyor.
       - company: Metuor Space Team
         position: Yönetim Kurulu Üyesi / Elektronik ve Yer İstasyonu Üyesi
         start_date: 2022-09
         end_date: 2024-06
         location: Ankara, Türkiye
-        highlights:
-          - CanSat ve Cubesat tasarımlarında kritik elektronik sistemlerin geliştirilmesini üstlendi.
-          - Dünya 2.liği sonrası yönetim kuruluna seçilerek finans ve tanıtım süreçlerini yönetti.
 
     projeler:
       - name: Cubesat Geliştirme
         start_date: 2024
         end_date: 2025-10
-        highlights:
-          - Metuor takımı ile Cubesat sistem tasarımı ve geliştirme çalışmaları.
       - name: Teknofest Çip Tasarım Yarışması
         date: 2025
-        highlights:
-          - Tümleşik devre tasarım prensipleri üzerine odaklanılan yarışma.
       - name: CanSat Competition
         date: 2023
-        highlights:
-          - CanSat Yarışması'nda **Dünya 2.liği** elde edildi.
       - name: Teknofest Roket / SpacePort America
         date: 2023
-        highlights:
-          - Roket Yarışması finalisti ve SpacePort America fırlatma kampanyası katılımcısı.
     teknik_beceriler:
       - label: Programlama
         details: C++, Python, Java, JavaScript, C, Matlab, C#, C++

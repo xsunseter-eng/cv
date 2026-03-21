@@ -31,34 +31,22 @@ cv:
         start_date: 2025-11
         end_date: present
         location: Ankara, Turkey
-        highlights:
-          - Contributing to research and development projects within the lab.
       - company: Metuor Space Team
         position: Board Member / Electronics & Ground Station Member
         start_date: 2022-09
         end_date: 2024-06
         location: Ankara, Turkey
-        highlights:
-          - Developed critical electronics for CanSat and Cubesat projects.
-          - Elected to Board Member after 2nd Place Worldwide; managed finance and outreach.
+
     projects:
       - name: Cubesat Development
         start_date: 2024
         end_date: 2025-10
-        highlights:
-          - Cubesat systems design and development with the Metuor team.
       - name: Teknofest Chip Design Competition
         date: 2025
-        highlights:
-          - Integrated circuit design principles.
       - name: CanSat Competition
         date: 2023
-        highlights:
-          - Achieved **2nd Place Worldwide**.
       - name: Teknofest Rocket / SpacePort America
         date: 2023
-        highlights:
-          - Rocket Competition finalist and SpacePort America launch campaign participant.
     skills:
       - label: Programming
         details: C++, Python, Java, JavaScript, C, Matlab, C#, C++

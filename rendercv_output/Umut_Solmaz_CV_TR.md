@@ -27,17 +27,11 @@
 
 Kas 2025 – halen
 
-- Laboratuvar bünyesindeki araştırma ve geliştirme projelerine katkı sağlanıyor.
-
 
 
 ## **Yönetim Kurulu Üyesi / Elektronik ve Yer İstasyonu Üyesi**, Metuor Space Team -- Ankara, Türkiye
 
 Eyl 2022 – Haz 2024
-
-- **CanSat** ve **Cubesat** tasarımlarında kritik elektronik sistemlerin geliştirilmesini üstlendi.
-
-- **Dünya 2.liği** sonrası yönetim kuruluna seçilerek finans ve tanıtım süreçlerini yönetti.
 
 
 
@@ -46,15 +40,11 @@ Eyl 2022 – Haz 2024
 
 2024 – Eki 2025
 
-- Metuor takımı ile **Cubesat** sistem tasarımı ve geliştirme çalışmaları.
-
 
 
 ## ****Teknofest** Çip Tasarım Yarışması**
 
 2025
-
-- Tümleşik devre tasarım prensipleri üzerine odaklanılan yarışma.
 
 
 
@@ -62,15 +52,11 @@ Eyl 2022 – Haz 2024
 
 2023
 
-- **CanSat** Yarışması'nda ****Dünya 2.liği**** elde edildi.
-
 
 
 ## ****Teknofest** Roket / SpacePort America**
 
 2023
-
-- Roket Yarışması finalisti ve SpacePort America fırlatma kampanyası katılımcısı.
 
 
 
