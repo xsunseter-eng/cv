@@ -91,7 +91,6 @@
 #connections(
   [Ankara, Turkey],
   [#link("mailto:umut.solmaz@metu.edu.tr", icon: false, if-underline: false, if-color: false)[umut.solmaz\@metu.edu.tr]],
-  [#link("tel:+90-537-626-20-45", icon: false, if-underline: false, if-color: false)[0537 626 20 45]],
   [#link("https://linkedin.com/in/umut-solmaz-73b798249", icon: false, if-underline: false, if-color: false)[linkedin.com\/in\/umut-solmaz-73b798249]],
 )
 
