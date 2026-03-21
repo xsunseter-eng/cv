@@ -97,7 +97,7 @@
 
 == Ozet
 
-#strong[#emph[#sym.ast.basic#h(0pt, weak: true) ODTÜ]#sym.ast.basic ]Havacılık ve Uzay Mühendisliği#strong[ 4. sınıf öğrencisi]. #strong[#emph[#sym.ast.basic#h(0pt, weak: true) Aerodinamik]#sym.ast.basic#h(0pt, weak: true) , ]CFD#strong[ ve ]Uzay Sistemleri#strong[#emph[#sym.ast.basic konularına ilgili; gömülü sistemler, programlama ve takım yönetimi konularında deneyimli. ]]#emph[TEI]#emph[, ]#emph[ASELSAN]#emph[, ]#emph[ROKETSAN]#emph[ ve ]#emph[TUSAŞ]#sym.ast.basic#h(0pt, weak: true) #sym.ast.basic#h(0pt, weak: true) #sym.ast.basic gibi savunma sanayii devlerinde 2026 Yaz dönemi için staj fırsatları aramaktadır.
+#strong[ODTÜ] #strong[Havacılık ve Uzay Mühendisliği] 4'üncü sınıf öğrencisi. #strong[#emph[#sym.ast.basic#h(0pt, weak: true) Aerodinamik]#sym.ast.basic#h(0pt, weak: true) , ]CFD#strong[ ve ]Uzay Sistemleri#strong[#emph[#sym.ast.basic konularına ilgili; gömülü sistemler, programlama ve takım yönetimi konularında deneyimli. ]]#emph[TEI]#emph[, ]#emph[ASELSAN]#emph[, ]#emph[ROKETSAN]#emph[ ve ]#emph[TUSAŞ]#sym.ast.basic#h(0pt, weak: true) #sym.ast.basic#h(0pt, weak: true) #sym.ast.basic gibi savunma sanayii devlerinde 2026 Yaz dönemi için staj fırsatları aramaktadır.
 
 == Egitim
 
