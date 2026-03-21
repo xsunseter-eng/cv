@@ -24,7 +24,7 @@
   colors-links: rgb(0, 48, 73),
   colors-footer: rgb(128, 128, 128),
   colors-top-note: rgb(128, 128, 128),
-  typography-line-spacing: 0.5em,
+  typography-line-spacing: 0.4em,
   typography-alignment: "justified",
   typography-date-and-location-column-alignment: right,
   typography-font-family-body: "Latin Modern Serif",
@@ -81,7 +81,7 @@
   date: datetime(
     year: 2026,
     month: 3,
-    day: 20,
+    day: 21,
   ),
 )
 
@@ -112,11 +112,9 @@
 
   ],
   main-column-second-row: [
-    - 13 kredi değerinde üstten ders tamamlandı.
+    - 13 kredi değerinde üstten ders tamamlandı; İngilizce hazırlık sınavla atlandı.
 
     - NTA Çince (HSK2) seçmeli dersleri alındı.
-
-    - İngilizce hazırlık sınıfı sınavla atlandı.
 
   ],
 )
@@ -161,15 +159,9 @@
 
   ],
   main-column-second-row: [
-    - Takıma Elektronik ve Yer istasyonları alt takımı üyesi olarak giriş yaptı.
+    - #strong[CanSat] ve #strong[Cubesat] tasarımlarında kritik elektronik sistemlerin geliştirilmesini üstlendi.
 
-    - Takım #strong[CanSat] yarışmasında dünya 2.si olduktan sonra yönetim kuruluna seçildi.
-
-    - Bulunduğu alt takımlara Mekanik takımını da ekleyerek disiplinlerarası yetkinlik kazandı.
-
-    - Takımın finans ve tanıtım görevlerinde aktif rol alarak kurumsal ilişkileri yönetti.
-
-    - #strong[CanSat] ve #strong[Cubesat] tasarımlarında kritik sistemlerin geliştirilmesinde büyük sorumluluklar üstlendi.
+    - #strong[Dünya 2.liği] sonrası yönetim kuruluna seçilerek finans ve tanıtım süreçlerini yönetti.
 
   ],
 )
@@ -186,7 +178,7 @@
 
   ],
   main-column-second-row: [
-    - Metuor takımı ile #strong[Cubesat] sistem tasarımı ve geliştirme çalışmaları yürütülüyor.
+    - Metuor takımı ile #strong[Cubesat] sistem tasarımı ve geliştirme çalışmaları.
 
   ],
 )
@@ -201,7 +193,7 @@
 
   ],
   main-column-second-row: [
-    - Tümleşik devre tasarım prensipleri üzerine odaklanılan yarışmaya katılım sağlandı.
+    - Tümleşik devre tasarım prensipleri üzerine odaklanılan yarışma.
 
   ],
 )
@@ -223,7 +215,7 @@
 
 #regular-entry(
   [
-    #strong[#emph[#sym.ast.basic#h(0pt, weak: true) Teknofest]#sym.ast.basic Roket Yarışması]
+    #strong[#emph[#sym.ast.basic#h(0pt, weak: true) Teknofest]#sym.ast.basic Roket \/ SpacePort America]
 
   ],
   [
@@ -231,22 +223,7 @@
 
   ],
   main-column-second-row: [
-    - Roket Yarışması'nda finalist olundu.
-
-  ],
-)
-
-#regular-entry(
-  [
-    #strong[SpacePort America Cup]
-
-  ],
-  [
-    2023
-
-  ],
-  main-column-second-row: [
-    - Fırlatma kampanyasına başarıyla katılım sağlandı.
+    - Roket Yarışması finalisti ve SpacePort America fırlatma kampanyası katılımcısı.
 
   ],
 )

@@ -24,7 +24,7 @@
   colors-links: rgb(0, 48, 73),
   colors-footer: rgb(128, 128, 128),
   colors-top-note: rgb(128, 128, 128),
-  typography-line-spacing: 0.5em,
+  typography-line-spacing: 0.4em,
   typography-alignment: "justified",
   typography-date-and-location-column-alignment: right,
   typography-font-family-body: "Latin Modern Serif",
@@ -81,7 +81,7 @@
   date: datetime(
     year: 2026,
     month: 3,
-    day: 20,
+    day: 21,
   ),
 )
 
@@ -112,11 +112,9 @@
 
   ],
   main-column-second-row: [
-    - Completed 13 credits of upper-level coursework ahead of schedule.
+    - Completed 13 credits of upper-level coursework; skipped English preparatory school.
 
     - Studying Chinese (HSK2\/NTA) as an elective.
-
-    - Skipped the English preparatory school by examination.
 
   ],
 )
@@ -161,7 +159,9 @@
 
   ],
   main-column-second-row: [
-    - Member of the Metuor Space Team.
+    - Developed critical electronics for #strong[CanSat] and #strong[Cubesat] projects.
+
+    - Elected to Board Member after #strong[2nd Place Worldwide]; managed finance and outreach.
 
   ],
 )
@@ -178,7 +178,7 @@
 
   ],
   main-column-second-row: [
-    - Working on #strong[Cubesat] systems design and development with the Metuor team.
+    - #strong[Cubesat] systems design and development with the Metuor team.
 
   ],
 )
@@ -193,7 +193,7 @@
 
   ],
   main-column-second-row: [
-    - Participated in the chip design competition, focusing on integrated circuit design principles.
+    - Integrated circuit design principles.
 
   ],
 )
@@ -208,14 +208,14 @@
 
   ],
   main-column-second-row: [
-    - Achieved #strong[#emph[#sym.ast.basic#h(0pt, weak: true) 2nd Place Worldwide]]#emph[ in the ]#emph[CanSat]#sym.ast.basic Competition.
+    - Achieved #strong[#emph[#sym.ast.basic#h(0pt, weak: true) 2nd Place Worldwide]]#sym.ast.basic#h(0pt, weak: true) .
 
   ],
 )
 
 #regular-entry(
   [
-    #strong[#emph[#sym.ast.basic#h(0pt, weak: true) Teknofest]#sym.ast.basic Rocket Competition]
+    #strong[#emph[#sym.ast.basic#h(0pt, weak: true) Teknofest]#sym.ast.basic Rocket \/ SpacePort America]
 
   ],
   [
@@ -223,22 +223,7 @@
 
   ],
   main-column-second-row: [
-    - Finalist in the Rocket Competition.
-
-  ],
-)
-
-#regular-entry(
-  [
-    #strong[SpacePort America Cup]
-
-  ],
-  [
-    2023
-
-  ],
-  main-column-second-row: [
-    - Successfully participated in the launch campaign.
+    - Rocket Competition finalist and SpacePort America launch campaign participant.
 
   ],
 )

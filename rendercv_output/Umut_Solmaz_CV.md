@@ -12,11 +12,9 @@
 # Education
 ## **Middle East Technical University (**METU**)**, Bachelor of Science in **Aerospace Engineering**Sept 2022 – June 2026
 
-- Completed 13 credits of upper-level coursework ahead of schedule.
+- Completed 13 credits of upper-level coursework; skipped English preparatory school.
 
 - Studying Chinese (HSK2/NTA) as an elective.
-
-- Skipped the English preparatory school by examination.
 
 
 
@@ -37,7 +35,9 @@ Nov 2025 – present
 
 Sept 2022 – June 2024
 
-- Member of the Metuor Space Team.
+- Developed critical electronics for **CanSat** and **Cubesat** projects.
+
+- Elected to Board Member after **2nd Place Worldwide**; managed finance and outreach.
 
 
 
@@ -46,7 +46,7 @@ Sept 2022 – June 2024
 
 2024 – Oct 2025
 
-- Working on **Cubesat** systems design and development with the Metuor team.
+- **Cubesat** systems design and development with the Metuor team.
 
 
 
@@ -54,7 +54,7 @@ Sept 2022 – June 2024
 
 2025
 
-- Participated in the chip design competition, focusing on integrated circuit design principles.
+- Integrated circuit design principles.
 
 
 
@@ -62,23 +62,15 @@ Sept 2022 – June 2024
 
 2023
 
-- Achieved ****2nd Place Worldwide**** in the **CanSat** Competition.
+- Achieved ****2nd Place Worldwide****.
 
 
 
-## ****Teknofest** Rocket Competition**
-
-2023
-
-- Finalist in the Rocket Competition.
-
-
-
-## **SpacePort America Cup**
+## ****Teknofest** Rocket / SpacePort America**
 
 2023
 
-- Successfully participated in the launch campaign.
+- Rocket Competition finalist and SpacePort America launch campaign participant.
 
 
 

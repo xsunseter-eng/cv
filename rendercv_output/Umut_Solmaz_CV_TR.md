@@ -12,11 +12,9 @@
 # Egitim
 ## **Orta Doğu Teknik Üniversitesi (**ODTÜ**)**, **Havacılık ve Uzay Mühendisliği**, LisansEyl 2022 – Haz 2026
 
-- 13 kredi değerinde üstten ders tamamlandı.
+- 13 kredi değerinde üstten ders tamamlandı; İngilizce hazırlık sınavla atlandı.
 
 - NTA Çince (HSK2) seçmeli dersleri alındı.
-
-- İngilizce hazırlık sınıfı sınavla atlandı.
 
 
 
@@ -37,15 +35,9 @@ Kas 2025 – halen
 
 Eyl 2022 – Haz 2024
 
-- Takıma Elektronik ve Yer istasyonları alt takımı üyesi olarak giriş yaptı.
+- **CanSat** ve **Cubesat** tasarımlarında kritik elektronik sistemlerin geliştirilmesini üstlendi.
 
-- Takım **CanSat** yarışmasında dünya 2.si olduktan sonra yönetim kuruluna seçildi.
-
-- Bulunduğu alt takımlara Mekanik takımını da ekleyerek disiplinlerarası yetkinlik kazandı.
-
-- Takımın finans ve tanıtım görevlerinde aktif rol alarak kurumsal ilişkileri yönetti.
-
-- **CanSat** ve **Cubesat** tasarımlarında kritik sistemlerin geliştirilmesinde büyük sorumluluklar üstlendi.
+- **Dünya 2.liği** sonrası yönetim kuruluna seçilerek finans ve tanıtım süreçlerini yönetti.
 
 
 
@@ -54,7 +46,7 @@ Eyl 2022 – Haz 2024
 
 2024 – Eki 2025
 
-- Metuor takımı ile **Cubesat** sistem tasarımı ve geliştirme çalışmaları yürütülüyor.
+- Metuor takımı ile **Cubesat** sistem tasarımı ve geliştirme çalışmaları.
 
 
 
@@ -62,7 +54,7 @@ Eyl 2022 – Haz 2024
 
 2025
 
-- Tümleşik devre tasarım prensipleri üzerine odaklanılan yarışmaya katılım sağlandı.
+- Tümleşik devre tasarım prensipleri üzerine odaklanılan yarışma.
 
 
 
@@ -74,19 +66,11 @@ Eyl 2022 – Haz 2024
 
 
 
-## ****Teknofest** Roket Yarışması**
+## ****Teknofest** Roket / SpacePort America**
 
 2023
 
-- Roket Yarışması'nda finalist olundu.
-
-
-
-## **SpacePort America Cup**
-
-2023
-
-- Fırlatma kampanyasına başarıyla katılım sağlandı.
+- Roket Yarışması finalisti ve SpacePort America fırlatma kampanyası katılımcısı.
 
 
 

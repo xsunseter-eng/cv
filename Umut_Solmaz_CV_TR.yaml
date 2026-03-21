@@ -18,9 +18,8 @@ cv:
         start_date: 2022-09
         end_date: 2026-06
         highlights:
-          - 13 kredi değerinde üstten ders tamamlandı.
+          - 13 kredi değerinde üstten ders tamamlandı; İngilizce hazırlık sınavla atlandı.
           - NTA Çince (HSK2) seçmeli dersleri alındı.
-          - İngilizce hazırlık sınıfı sınavla atlandı.
       - institution: Hatay Tosçelik Fen Lisesi
         area: Fen Bilimleri
         degree: Lise Diploması
@@ -40,34 +39,27 @@ cv:
         end_date: 2024-06
         location: Ankara, Türkiye
         highlights:
-          - Takıma Elektronik ve Yer istasyonları alt takımı üyesi olarak giriş yaptı.
-          - Takım CanSat yarışmasında dünya 2.si olduktan sonra yönetim kuruluna seçildi.
-          - Bulunduğu alt takımlara Mekanik takımını da ekleyerek disiplinlerarası yetkinlik kazandı.
-          - Takımın finans ve tanıtım görevlerinde aktif rol alarak kurumsal ilişkileri yönetti.
-          - CanSat ve Cubesat tasarımlarında kritik sistemlerin geliştirilmesinde büyük sorumluluklar üstlendi.
+          - CanSat ve Cubesat tasarımlarında kritik elektronik sistemlerin geliştirilmesini üstlendi.
+          - Dünya 2.liği sonrası yönetim kuruluna seçilerek finans ve tanıtım süreçlerini yönetti.
 
     projeler:
       - name: Cubesat Geliştirme
         start_date: 2024
         end_date: 2025-10
         highlights:
-          - Metuor takımı ile Cubesat sistem tasarımı ve geliştirme çalışmaları yürütülüyor.
+          - Metuor takımı ile Cubesat sistem tasarımı ve geliştirme çalışmaları.
       - name: Teknofest Çip Tasarım Yarışması
         date: 2025
         highlights:
-          - Tümleşik devre tasarım prensipleri üzerine odaklanılan yarışmaya katılım sağlandı.
+          - Tümleşik devre tasarım prensipleri üzerine odaklanılan yarışma.
       - name: CanSat Competition
         date: 2023
         highlights:
           - CanSat Yarışması'nda **Dünya 2.liği** elde edildi.
-      - name: Teknofest Roket Yarışması
+      - name: Teknofest Roket / SpacePort America
         date: 2023
         highlights:
-          - Roket Yarışması'nda finalist olundu.
-      - name: SpacePort America Cup
-        date: 2023
-        highlights:
-          - Fırlatma kampanyasına başarıyla katılım sağlandı.
+          - Roket Yarışması finalisti ve SpacePort America fırlatma kampanyası katılımcısı.
     teknik_beceriler:
       - label: Programlama
         details: C++, Python, Java, JavaScript, C, Matlab, C#, C++
@@ -94,7 +86,7 @@ design:
     font_size:
       body: 10pt
       name: 25pt
-    line_spacing: 0.5em
+    line_spacing: 0.4em
 
 locale:
   language: turkish
